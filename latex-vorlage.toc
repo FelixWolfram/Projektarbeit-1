@@ -1,0 +1,66 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{Abkürzungsverzeichnis}{V}{chapter*.4}%
+\contentsline {chapter}{Abbildungsverzeichnis}{VI}{section*.7}%
+\contentsline {chapter}{Tabellenverzeichnis}{VII}{section*.9}%
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.10}%
+\contentsline {section}{\numberline {1.1}Problemstellung}{1}{section.12}%
+\contentsline {section}{\numberline {1.2}Motivation}{1}{section.18}%
+\contentsline {section}{\numberline {1.3}Zielsetzung}{2}{section.19}%
+\contentsline {section}{\numberline {1.4}Forschungsmethodik}{2}{section.20}%
+\contentsline {section}{\numberline {1.5}Aufbau der Arbeit}{2}{section.23}%
+\contentsline {chapter}{\numberline {2}Diskussion des aktuellen Stands der Forschung und Praxis}{3}{chapter.24}%
+\contentsline {section}{\numberline {2.1}Digitale Modelle in der Fertigungsindustrie}{3}{section.26}%
+\contentsline {subsection}{\numberline {2.1.1}Begriffsabgrenzung: Digitales Modell, Digitaler Schatten, Digitaler Zwilling}{3}{subsection.28}%
+\contentsline {subsection}{\numberline {2.1.2}Forschungsstand und Entwicklungstrends}{4}{subsection.36}%
+\contentsline {subsection}{\numberline {2.1.3}Rolle der \acs {KI} und einhergehende Herausforderungen}{4}{subsection.39}%
+\contentsline {subsection}{\numberline {2.1.4}Nutzen und Anwendungsfelder in der Fertigung}{5}{subsection.44}%
+\contentsline {section}{\numberline {2.2}Synthetische Bilddaten für das Training von KI-Modellen}{5}{section.48}%
+\contentsline {subsection}{\numberline {2.2.1}Potenziale synthetischer Daten}{5}{subsection.54}%
+\contentsline {subsection}{\numberline {2.2.2}Herausforderungen beim Einsatz synthetischer Daten}{6}{subsection.57}%
+\contentsline {subsection}{\numberline {2.2.3}Methoden zur Generierung synthetischer Daten}{6}{subsection.64}%
+\contentsline {section}{\numberline {2.3}KI-Modelle in der Bildverarbeitung}{7}{section.74}%
+\contentsline {subsection}{\numberline {2.3.1}\acfp {CNN}}{8}{subsection.76}%
+\contentsline {subsection}{\numberline {2.3.2}Vision Transformer (ViTs)}{9}{subsection.86}%
+\contentsline {section}{\numberline {2.4}Fehlererkennung und -klassifikation in der Fertigung}{10}{section.98}%
+\contentsline {subsection}{\numberline {2.4.1}Begriffsdefinition und -abgrenzung}{10}{subsection.103}%
+\contentsline {subsection}{\numberline {2.4.2}Kategorien von Fault Detection and Diagnostics (FDD) Methoden}{11}{subsection.106}%
+\contentsline {subsection}{\numberline {2.4.3}Aktuelle Trends}{12}{subsection.112}%
+\contentsline {subsection}{\numberline {2.4.4}Herausforderungen und Forschungsbedarf}{12}{subsection.116}%
+\contentsline {section}{\numberline {2.5}Remote Monitoring}{13}{section.120}%
+\contentsline {subsection}{\numberline {2.5.1}Begriffsabgrenzung: Remote Services, Remote Operations, Remote Monitoring}{13}{subsection.121}%
+\contentsline {subsection}{\numberline {2.5.2}Remote Monitoring in der Fertigung}{13}{subsection.124}%
+\contentsline {subsection}{\numberline {2.5.3}Voraussetzungen für Remote Monitoring}{13}{subsection.128}%
+\contentsline {section}{\numberline {2.6}Evaluationsmethoden für Computer Vision-Modelle}{14}{section.131}%
+\contentsline {subsection}{\numberline {2.6.1}Grundlagen der Modellevaluation}{14}{subsection.132}%
+\contentsline {subsection}{\numberline {2.6.2}Zentrale Evaluationsmetriken für die Objekterkennung}{14}{subsection.137}%
+\contentsline {subsection}{\numberline {2.6.3}Vergleich und Auswahl von Metriken}{15}{subsection.152}%
+\contentsline {chapter}{\numberline {3}Zielspezifikation und Darlegung des Forschungsdesigns}{16}{chapter.155}%
+\contentsline {section}{\numberline {3.1}Zielsetzung}{16}{section.157}%
+\contentsline {section}{\numberline {3.2}Forschungsmethodik}{16}{section.159}%
+\contentsline {section}{\numberline {3.3}Darlegung des Forschungsdesigns}{17}{section.166}%
+\contentsline {subsection}{\numberline {3.3.1}Artefaktdefinition}{17}{subsection.167}%
+\contentsline {subsection}{\numberline {3.3.2}Vorgehensweise}{18}{subsection.171}%
+\contentsline {subsection}{\numberline {3.3.3}Datengrundlage}{19}{subsection.173}%
+\contentsline {subsection}{\numberline {3.3.4}Evaluationsdesign}{19}{subsection.175}%
+\contentsline {subsection}{\numberline {3.3.5}Reproduzierbarkeit und Validität}{20}{subsection.180}%
+\contentsline {chapter}{\numberline {4}Training von KI-Modellen auf synthetischen Daten}{21}{chapter.184}%
+\contentsline {section}{\numberline {4.1}Zielsetzung und Forschungsmethodik}{21}{section.188}%
+\contentsline {section}{\numberline {4.2}Aufbau der Simulationsumgebung}{22}{section.189}%
+\contentsline {section}{\numberline {4.3}Generierung der synthetischen Bilddaten}{23}{section.195}%
+\contentsline {section}{\numberline {4.4}Training von KI-Modellen auf synthetischen Bilddaten}{24}{section.201}%
+\contentsline {subsection}{\numberline {4.4.1}Auswahl der KI Architekturen und Modelle}{24}{subsection.202}%
+\contentsline {subsection}{\numberline {4.4.2}Vorbereitung des Datensatzes und Training der Modelle}{25}{subsection.205}%
+\contentsline {subsection}{\numberline {4.4.3}Probleme während des Trainings}{26}{subsection.213}%
+\contentsline {subsection}{\numberline {4.4.4}Evaluation der KI-Modelle}{26}{subsection.214}%
+\contentsline {chapter}{\numberline {5}Evaluation der KI-Modelle zur Fehlererkennung bei Werkzeugmaschinen}{27}{chapter.218}%
+\contentsline {section}{\numberline {5.1}Zielsetzung und Forschungsmethodik}{27}{section.220}%
+\contentsline {subsection}{\numberline {5.1.1}Evaluation der YOLO-Modelle}{27}{subsection.221}%
+\contentsline {subsection}{\numberline {5.1.2}Evaluation des RT-DETR Modells}{29}{subsection.227}%
+\contentsline {subsection}{\numberline {5.1.3}Zusammenfassung der Evaluationsergebnisse}{30}{subsection.229}%
+\contentsline {chapter}{\numberline {6}Kritische Reflexion und Ausblick}{31}{chapter.230}%
+\contentsline {section}{\numberline {6.1}Auftrag der Arbeit}{31}{section.232}%
+\contentsline {section}{\numberline {6.2}Kritische Reflexion der Methodik und Ergebnisse}{31}{section.234}%
+\contentsline {section}{\numberline {6.3}Implikationen für die Forschung}{33}{section.236}%
+\contentsline {section}{\numberline {6.4}Einordnung und Ausblick}{34}{section.243}%
+\contentsline {chapter}{Anhang}{35}{chapter*.244}%
+\contentsline {chapter}{Literaturverzeichnis}{63}{section*.1299}%

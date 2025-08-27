@@ -1,0 +1,30 @@
+\chapter[Einleitung]{Einleitung\footnote{Sprachlich geglättet durch ChatGPT-5}}\label{chapter:einleitung}
+
+\section{Problemstellung}\label{sec:problemstellung}
+
+Ein zentrales Problem bei der Automatisierung von industriellen Produktionsprozessen stellt die Fehlerekennung und -klassifikation dar.\footnote{Vgl.  \cite[439]{wu_transformer-based_2023}} Insbesondere bei geringen Losgrößen sind Fehler nicht vorhersehbar, weshalb Systeme mit regelbasierten Ansätzen an ihre Grenzen stoßen. Es werden daher \ac{KI}-Modelle benötigt, um mit dieser Komplexität umgehen zu können. Die schnelle und präzise Erkennung und Klassifikation von Fehlern wird daher insbesondere bei der Fernüberwachung von Maschinen und Anlagen (\textit{Remote Monitoring}) zunehmend relevanter. \footnote{Vgl. \cite[S. 1 f.]{leite_fault_2024}}
+
+Eine zentrale Herausforderung stellt dabei die Verfügbarkeit großer und qualitativ hochwertiger Datensätze für das Training und die Evaluierung von \ac{KI}-Modellen dar. Insbesondere der Mangel an Daten für seltene Fehlerfälle stellt in der Praxis oft eine erhebliche Hürde dar.\footnote{Vgl. \cite[250]{urgo_monitoring_2024}} In den letzten Jahren hat sich die Nutzung von Simulationsumgebungen zur Generierung synthetischer Daten als ein vielversprechender Ansatz herausgestellt, um dieses Problem zu adressieren. \footnote{Vgl. \cite[S. 1101 f.]{schmedemann_procedural_2022}}
+
+Es können hierdurch große und vielfältige Datensätze generiert werden, was eine große Chance für die Entwicklung leistungsfähiger \ac{KI}-Modelle darstellt.\footnote{Vgl. \cite[768]{monnet_investigating_2024}} Durch die Aktualität des Themas ist dieses Feld gleichzeitig nur unzureichend erforscht, insbesondere hinsichtlich der Einsatzmöglichkeiten bei der Fernüberwachung.
+
+Vor diesem Hintergrund ergibt sich die zentrale Forschungsfrage dieser Arbeit: Wie können digitale Modelle zur Generierung synthetischer Daten für das Training von \ac{KI}-Modellen zur Fehlererkennung an Werkzeugmaschinen genutzt werden und wie geeignet sind diese Daten für den Einsatz in realen Anwendungsfällen?
+
+\section{Motivation}
+
+Die Motivation für diese Arbeit ergibt sich aus der zunehmenden Bedeutung von \ac{KI}-Modellen in industriellen Anwendungen, insbesondere im Bereich der Fehlererkennung. Die Fähigkeit, Fehler frühzeitig zu erkennen und zu klassifizieren, ist in diversen industriellen Anwendungsfällen von großer Bedeutung. Aufgrund hierbei auftretender erheblicher Herausforderungen, insbesondere hinsichtlich der Verfügbarkeit von qualitativ hochwertigen Datensätzen, ist die Erforschung generativer Ansätze zur Datengenerierung von hoher Relevanz.
+
+\section{Zielsetzung}
+Ziel dieser Arbeit ist die Entwicklung und Evaluation eines pipelinebasierten Ansatzes zur Generierung synthetischer Bilddaten aus einem digitalen Modell einer Werkzeugmaschine. Diese Daten sollen anschließend genutzt werden, um \ac{KI}-Modelle zu trainieren und zu evaluieren, welche in der Lage sein sollen, Fehler an Werkzeugmaschinen zu erkennen. Dabei soll die Leistung dieser Modelle auf synthetischen und realen Bilddaten untersucht und verglichen werden, um die Eignung synthetischer Daten in realen Anwendungsfällen zu bewerten.
+
+Es handelt sich dabei um eine prototypische Umsetzung (\textit{Proof-of-Concept}), die die Machbarkeit und das Potenzial synthetischer Daten für solche Anwendungsfälle aufzeigen soll, ohne eine umfassende, bereits praxistaugliche Lösung zu liefern. Der Schwerpunkt liegt auf der Entwicklung einer Datenpipeline, die eine Generierung umfangreicher und qualitativ hochwertiger Bilddatensätze ermöglicht, wobei Reproduzierbarkeit und Automatisierung eine zentrale Anforderung darstellen.
+
+\section{Forschungsmethodik}
+
+Um die Zielsetzung dieser Arbeit zu erreichen, wird im ersten Schritt eine umfassende Literaturrecherche durchgeführt, um den aktuellen Stand der Forschung in diesem Bereich zu erfassen. Anschließend soll ein Artefakt in Form einer Datenpipeline entwickelt werden, um die in Kapitel \ref{sec:problemstellung} gestellte Forschungsfrage zu adressieren. Die erzielten Ergebnisse werden anschließend evaluiert und kritisch reflektiert.
+
+Methodisch orientiert sich die Vorgehensweise in dieser Arbeit am \ac{DSR}-Paradigma nach \cite{hevner_design_2004}. Es wird ein iterativer Prozess verfolgt, der die Phasen der Problemanalyse, der Entwurfsentwicklung und der Evaluation umfasst.\footnote{Vgl. Kapitel \ref{chapter:Ziel_und_Forschungsdesign}}
+
+\section{Aufbau der Arbeit}
+
+Die Arbeit ist in mehrere Kapitel gegliedert, welche den Leser im Sinne des \ac{DSR}-Paradigmas von der Problemstellung bis hin zu den Ergebnissen und deren Schlussfolgerungen führen. Nach der Einleitung in Kapitel \ref{chapter:einleitung} folgt in Kapitel \ref{chapter:Stand_Forschung_und_Praxis} die theoretische Fundierung, in welcher die relevanten Konzepte und Technologien erläutert werden. Kapitel \ref{chapter:Ziel_und_Forschungsdesign} beschreibt die Methodik, die zur Entwicklung des Artefakts verwendet wird, während anschließend in Kapitel \ref{chapter:praktische_umsetzung} das entwickelte Artefakt detailliert beschrieben wird. Die Evaluation des Artefakts wird in Kapitel \ref{chapter:Evaluation_Ergebnisse} präsentiert, gefolgt von einer Diskussion dieser Ergebnisse in Kapitel \ref{chapter:Ergebnisdiskussion}. Hier werden außerdem bestehende Herausforderungen und Limitationen dieser Arbeit sowie der Bedarf weiterer Forschung in diesem Feld diskutiert.

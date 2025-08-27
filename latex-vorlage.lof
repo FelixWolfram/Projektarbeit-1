@@ -1,0 +1,12 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Schematischer Aufbau einer Convolutional Neural Network Architektur}}{8}{figure.caption.78}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Schematischer Aufbau einer Vision Transformer Architektur}}{9}{figure.caption.88}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Grafische Visualisierung der Datengenerierungs- und Trainingspipeline}}{21}{figure.caption.187}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Beispiele für exportierte Bilder aus dem Replicator}}{24}{figure.caption.199}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Beispiel einer durch den Replicator automatisch erzeugten Annotation (grafisch visualisiert)}}{24}{figure.caption.200}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Trainingsverlauf des \ac {YOLO}-Modells Medium}}{28}{figure.caption.223}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Präzision-Sensitivität-Kurven der \ac {YOLO}-Modelle Nano und Medium}}{28}{figure.caption.225}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Visualisierung einer Vorhersage des \ac {RT-DETR}-Modells mit Datenaugmentierung auf einem realen Bild (\textit {Confidence Threshold 0.1})}}{30}{figure.caption.228}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Verlauf von Metriken während des Trainings des \ac {YOLO} Modells Nano}}{61}{figure.caption.1292}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Verlauf von Metriken während des Trainings des \ac {YOLO} Modells Small}}{62}{figure.caption.1295}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Precision-Recall-Kurve des \ac {YOLO} Small Modells}}{62}{figure.caption.1298}%

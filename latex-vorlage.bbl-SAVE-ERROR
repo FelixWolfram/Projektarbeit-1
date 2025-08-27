@@ -1,0 +1,3205 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{alfaro-viquez_comprehensive_2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ca2c27eeb685bdea680ac847eed017d3}{%
+           family={Alfaro-Viquez},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8edccadfd884a21fa7cba30cc4a8a4d9}{%
+           family={Zamora-Hernandez},
+           familyi={Z\bibinithyphendelim H\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4624af9b603f28776dbd80cd6adc903}{%
+           family={Fernandez-Vega},
+           familyi={F\bibinithyphendelim V\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7916bbdff49946e9d942ad67055a314d}{%
+           family={Garcia-Rodriguez},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9890c1a5217505b27d2b2f33fb12c578}{%
+           family={Azorin-Lopez},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{19f841cc8d0692d87b564ac5083089ed}
+      \strng{fullhash}{ea763abded4a7268b812083e3843ed39}
+      \strng{fullhashraw}{ea763abded4a7268b812083e3843ed39}
+      \strng{bibnamehash}{ea763abded4a7268b812083e3843ed39}
+      \strng{authorbibnamehash}{ea763abded4a7268b812083e3843ed39}
+      \strng{authornamehash}{19f841cc8d0692d87b564ac5083089ed}
+      \strng{authorfullhash}{ea763abded4a7268b812083e3843ed39}
+      \strng{authorfullhashraw}{ea763abded4a7268b812083e3843ed39}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Digital twins (DTs) represent a transformative technology in manufacturing, facilitating significant advancements in monitoring, simulation, and optimization. This paper offers an extensive bibliographic review of AI-Based DT applications, categorized into three principal dimensions: operator, process, and product. The operator dimension focuses on enhancing safety and ergonomics through intelligent assistance, utilizing real-time monitoring and artificial intelligence, notably in human–robot collaboration contexts. The process application concerns itself with optimizing production flows, identifying bottlenecks, and dynamically reconfiguring systems through predictive models and real-time simulations. Lastly, the product dimension emphasizes the applications focused on the improvements in product design and quality, employing lifecycle and historical data to satisfy evolving market requirements. This categorization provides a structured framework for analyzing the specific capabilities and trends of DTs, while also identifying knowledge gaps in contemporary research. This review highlights the key challenges of technological interoperability, data integration, and high implementation costs while emphasizing how digital twins, supported by AI, can drive the transition toward sustainable, human-centered manufacturing systems in line with Industry 5.0. The findings provide valuable insights for advancing the state of the art and exploring future opportunities in digital twin applications.}
+      \field{issn}{2079-9292}
+      \field{journaltitle}{Electronics}
+      \field{month}{1}
+      \field{note}{Number: 4 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{4}
+      \field{shorttitle}{A {Comprehensive} {Review} of {AI}-{Based} {Digital} {Twin} {Applications} in {Manufacturing}}
+      \field{title}{A {Comprehensive} {Review} of {AI}-{Based} {Digital} {Twin} {Applications} in {Manufacturing}: {Integration} {Across} {Operator}, {Product}, and {Process} {Dimensions}}
+      \field{urlday}{28}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{646}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/electronics14040646
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2079-9292/14/4/646
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2079-9292/14/4/646
+      \endverb
+      \keyw{digital twin,framework,human digital twin,Industry 4.0,Industry 5.0}
+    \endentry
+    \entry{ali_adversarial_2024}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=44b6b2993df7b8e5230f955e7caa30b5}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Kazim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b19c6987ff7cce5d59f58dc1e4003f23}{%
+           family={Bhatti},
+           familyi={B\bibinitperiod},
+           given={Muhammad\bibnamedelima Shahid},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00f2f381cdac2dd39d6a72f5adb1e13a}{%
+           family={Saeed},
+           familyi={S\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbd9070a63bc216640c1105873c47e8d}{%
+           family={Athar},
+           familyi={A\bibinitperiod},
+           given={Atifa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9f6342623a1504810f376e95fc3b74b}{%
+           family={Al\bibnamedelima Ghamdi},
+           familyi={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Mohammed\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e94e75cb52cd5e8b1d3a1765b4cadd6}{%
+           family={Almotiri},
+           familyi={A\bibinitperiod},
+           given={Sultan\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b982534a91ebae9596f153e9f2a034d}{%
+           family={Akram},
+           familyi={A\bibinitperiod},
+           given={Samina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b068508d1e47c0fdcb287fa7c27cae1}
+      \strng{fullhash}{a5f390bbf2f8514dfa92998ff49caa57}
+      \strng{fullhashraw}{a5f390bbf2f8514dfa92998ff49caa57}
+      \strng{bibnamehash}{a5f390bbf2f8514dfa92998ff49caa57}
+      \strng{authorbibnamehash}{a5f390bbf2f8514dfa92998ff49caa57}
+      \strng{authornamehash}{4b068508d1e47c0fdcb287fa7c27cae1}
+      \strng{authorfullhash}{a5f390bbf2f8514dfa92998ff49caa57}
+      \strng{authorfullhashraw}{a5f390bbf2f8514dfa92998ff49caa57}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{{IEEE} Access}
+      \field{shortjournal}{{IEEE} Access}
+      \field{title}{Adversarial Robustness of Vision Transformers Versus Convolutional Neural Networks}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{105281\bibrangedash 105293}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2024.3435347
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10614176/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10614176/
+      \endverb
+    \endentry
+    \entry{andrade_internal_2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27be2569d1f2eaad3e431db48797e633}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Chittaranjan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27be2569d1f2eaad3e431db48797e633}
+      \strng{fullhash}{27be2569d1f2eaad3e431db48797e633}
+      \strng{fullhashraw}{27be2569d1f2eaad3e431db48797e633}
+      \strng{bibnamehash}{27be2569d1f2eaad3e431db48797e633}
+      \strng{authorbibnamehash}{27be2569d1f2eaad3e431db48797e633}
+      \strng{authornamehash}{27be2569d1f2eaad3e431db48797e633}
+      \strng{authorfullhash}{27be2569d1f2eaad3e431db48797e633}
+      \strng{authorfullhashraw}{27be2569d1f2eaad3e431db48797e633}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0253-7176, 0975-1564}
+      \field{journaltitle}{Indian Journal of Psychological Medicine}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{5}
+      \field{shortjournal}{Indian Journal of Psychological Medicine}
+      \field{title}{Internal, External, and Ecological Validity in Research Design, Conduct, and Evaluation}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{498\bibrangedash 499}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.4103/IJPSYM.IJPSYM_334_18
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.4103/IJPSYM.IJPSYM_334_18
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.4103/IJPSYM.IJPSYM_334_18
+      \endverb
+    \endentry
+    \entry{arslanoglu_vision_2025}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7c40531d12dc4918538c517bfb53d95c}{%
+           family={Arslanoglu},
+           familyi={A\bibinitperiod},
+           given={Muhammed\bibnamedelima Cihad},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08ea244f8280675735533677dc63775b}{%
+           family={Albayrak},
+           familyi={A\bibinitperiod},
+           given={Abdulkadir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0c59ca1adebcde3b04621723d991960}{%
+           family={Acar},
+           familyi={A\bibinitperiod},
+           given={Huseyin},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{526aa4652fca5824681e97af79451ec7}
+      \strng{fullhash}{526aa4652fca5824681e97af79451ec7}
+      \strng{fullhashraw}{526aa4652fca5824681e97af79451ec7}
+      \strng{bibnamehash}{526aa4652fca5824681e97af79451ec7}
+      \strng{authorbibnamehash}{526aa4652fca5824681e97af79451ec7}
+      \strng{authornamehash}{526aa4652fca5824681e97af79451ec7}
+      \strng{authorfullhash}{526aa4652fca5824681e97af79451ec7}
+      \strng{authorfullhashraw}{526aa4652fca5824681e97af79451ec7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{{IEEE} Access}
+      \field{shortjournal}{{IEEE} Access}
+      \field{shorttitle}{Vision Transformers Versus Convolutional Neural Networks}
+      \field{title}{Vision Transformers Versus Convolutional Neural Networks: Comparing Robustness by Exploiting Varying Local Features}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{65232\bibrangedash 65245}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2025.3559794
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10962160/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10962160/
+      \endverb
+    \endentry
+    \entry{bai_bridging_2023}{misc}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d7b3300d596ff15fbc16b5012f2e0b10}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Xiangyu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abc7493d4ac090234064bcbbc78f3dd5}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Yedi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=911a175440312c8b0d17175c646aa298}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Le},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33cb46831c6207c06e9093311bd9cecd}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Aniket},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6277f8265e317cc8b572987ee5dfb419}{%
+           family={Kaveti},
+           familyi={K\bibinitperiod},
+           given={Pushyami},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fb479714d7e3f1198d54f85cbcf5d15}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Hanumant},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31bb8a1a6fcfa026b18fe8a11d0ade31}{%
+           family={Ostadabbas},
+           familyi={O\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{49f89da1ccf3bc6dd654bdcb7d4e5a2e}
+      \strng{fullhash}{7027b9b951bddbe3f7b3d32fa7baa7ef}
+      \strng{fullhashraw}{7027b9b951bddbe3f7b3d32fa7baa7ef}
+      \strng{bibnamehash}{7027b9b951bddbe3f7b3d32fa7baa7ef}
+      \strng{authorbibnamehash}{7027b9b951bddbe3f7b3d32fa7baa7ef}
+      \strng{authornamehash}{49f89da1ccf3bc6dd654bdcb7d4e5a2e}
+      \strng{authorfullhash}{7027b9b951bddbe3f7b3d32fa7baa7ef}
+      \strng{authorfullhashraw}{7027b9b951bddbe3f7b3d32fa7baa7ef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Modern autonomous systems require extensive testing to ensure reliability and build trust in ground vehicles. However, testing these systems in the real-world is challenging due to the lack of large and diverse datasets, especially in edge cases. Therefore, simulations are necessary for their development and evaluation. However, existing open-source simulators often exhibit a significant gap between synthetic and real-world domains, leading to deteriorated mobility performance and reduced platform reliability when using simulation data. To address this issue, our Scoping Autonomous Vehicle Simulation ({SAVeS}) platform benchmarks the performance of simulated environments for autonomous ground vehicle testing between synthetic and real-world domains. Our platform aims to quantify the domain gap and enable researchers to develop and test autonomous systems in a controlled environment. Additionally, we propose using domain adaptation technologies to address the domain gap between synthetic and real-world data with our {SAVeS}\${\textasciicircum}+\$ extension. Our results demonstrate that {SAVeS}\${\textasciicircum}+\$ is effective in helping to close the gap between synthetic and real-world domains and yields comparable performance for models trained with processed synthetic datasets to those trained on real-world datasets of same scale. This paper highlights our efforts to quantify and address the domain gap between synthetic and real-world data for autonomy simulation. By enabling researchers to develop and test autonomous systems in a controlled environment, we hope to bring autonomy simulation one step closer to realization.}
+      \field{note}{Version Number: 1}
+      \field{title}{Bridging the Domain Gap between Synthetic and Real-World Data for Autonomous Driving}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2306.02631
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2306.02631
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2306.02631
+      \endverb
+      \keyw{{FOS}: Computer and information sciences,Robotics (cs.{RO})}
+    \endentry
+    \entry{berroukham_vision_2023}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2fcc0bf8b1340e04ae200db8656b52cc}{%
+           family={Berroukham},
+           familyi={B\bibinitperiod},
+           given={Abdelhafid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbbb47965f6115f3fdbcf750284dcae7}{%
+           family={Housni},
+           familyi={H\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fa4126b5d5846b7765c426b8ac570e7}{%
+           family={Lahraichi},
+           familyi={L\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Agadir - Essaouira, Morocco}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{fullhash}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{fullhashraw}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{bibnamehash}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{authorbibnamehash}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{authornamehash}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{authorfullhash}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \strng{authorfullhashraw}{27c4fa74d8837a94ccc7fdf61e75f6ad}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{2023 7th {IEEE} Congress on Information Science and Technology ({CiSt})}
+      \field{day}{16}
+      \field{eventtitle}{2023 7th {IEEE} Congress on Information Science and Technology ({CiSt})}
+      \field{month}{12}
+      \field{shorttitle}{Vision Transformers}
+      \field{title}{Vision Transformers: A Review of Architecture, Applications, and Future Directions}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{205\bibrangedash 210}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/cist56084.2023.10410015
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10410015/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10410015/
+      \endverb
+    \endentry
+    \entry{bhatt_cnn_2021}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=6553c3695f079733bde08c29408c3e25}{%
+           family={Bhatt},
+           familyi={B\bibinitperiod},
+           given={Dulari},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0c1997d2c11b50fd9ebec94135c5750}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Chirag},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f00a68bb847d4bc99dcbeb6bad45177b}{%
+           family={Talsania},
+           familyi={T\bibinitperiod},
+           given={Hardik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=286d835ba3dce6673ae942035357be8c}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Jigar},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff4a560de24fae264678e93b56f2dfb8}{%
+           family={Vaghela},
+           familyi={V\bibinitperiod},
+           given={Rasmika},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cfa81dc36b28fc220317091d543d61d}{%
+           family={Pandya},
+           familyi={P\bibinitperiod},
+           given={Sharnil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=820226abb819b0cf1476e7e3d6993faa}{%
+           family={Modi},
+           familyi={M\bibinitperiod},
+           given={Kirit},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=245167e28523397e36874d7904e7a7e2}{%
+           family={Ghayvat},
+           familyi={G\bibinitperiod},
+           given={Hemant},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{645fcb5d292128d156d416f3b6de6d98}
+      \strng{fullhash}{3c95c64a377cc54a420daf201e1a8c1d}
+      \strng{fullhashraw}{3c95c64a377cc54a420daf201e1a8c1d}
+      \strng{bibnamehash}{3c95c64a377cc54a420daf201e1a8c1d}
+      \strng{authorbibnamehash}{3c95c64a377cc54a420daf201e1a8c1d}
+      \strng{authornamehash}{645fcb5d292128d156d416f3b6de6d98}
+      \strng{authorfullhash}{3c95c64a377cc54a420daf201e1a8c1d}
+      \strng{authorfullhashraw}{3c95c64a377cc54a420daf201e1a8c1d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Computer vision is becoming an increasingly trendy word in the area of image processing. With the emergence of computer vision applications, there is a significant demand to recognize objects automatically. Deep CNN (convolution neural network) has benefited the computer vision community by producing excellent results in video processing, object recognition, picture classification and segmentation, natural language processing, speech recognition, and many other fields. Furthermore, the introduction of large amounts of data and readily available hardware has opened new avenues for CNN study. Several inspirational concepts for the progress of CNN have been investigated, including alternative activation functions, regularization, parameter optimization, and architectural advances. Furthermore, achieving innovations in architecture results in a tremendous enhancement in the capacity of the deep CNN. Significant emphasis has been given to leveraging channel and spatial information, with a depth of architecture and information processing via multi-path. This survey paper focuses mainly on the primary taxonomy and newly released deep CNN architectures, and it divides numerous recent developments in CNN architectures into eight groups. Spatial exploitation, multi-path, depth, breadth, dimension, channel boosting, feature-map exploitation, and attention-based CNN are the eight categories. The main contribution of this manuscript is in comparing various architectural evolutions in CNN by its architectural change, strengths, and weaknesses. Besides, it also includes an explanation of the CNN’s components, the strengths and weaknesses of various CNN variants, research gap or open challenges, CNN applications, and the future research direction.}
+      \field{issn}{2079-9292}
+      \field{journaltitle}{Electronics}
+      \field{month}{10}
+      \field{note}{Publisher: MDPI AG}
+      \field{number}{20}
+      \field{shorttitle}{{CNN} {Variants} for {Computer} {Vision}}
+      \field{title}{{CNN} {Variants} for {Computer} {Vision}: {History}, {Architecture}, {Application}, {Challenges} and {Future} {Scope}}
+      \field{urlday}{15}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{2470}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/electronics10202470
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2079-9292/10/20/2470
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2079-9292/10/20/2470
+      \endverb
+    \endentry
+    \entry{bilous_comparison_2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c41baaae8456856300d0d3ca2aff69c3}{%
+           family={Bilous},
+           familyi={B\bibinitperiod},
+           given={Nataliya},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6c406e636ac0651d818c46a5c81b1b3}{%
+           family={Malko},
+           familyi={M\bibinitperiod},
+           given={Vladyslav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf164347af29e87f880a87cd248939b3}{%
+           family={Frohme},
+           familyi={F\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=633aa29b91d75d91ea0b2e82fecc76c7}{%
+           family={Nechyporenko},
+           familyi={N\bibinitperiod},
+           given={Alina},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c2403ae22e2c72e94462dbccab8dd04}
+      \strng{fullhash}{15b1318136cc10da141d3d2826cc6fce}
+      \strng{fullhashraw}{15b1318136cc10da141d3d2826cc6fce}
+      \strng{bibnamehash}{15b1318136cc10da141d3d2826cc6fce}
+      \strng{authorbibnamehash}{15b1318136cc10da141d3d2826cc6fce}
+      \strng{authornamehash}{7c2403ae22e2c72e94462dbccab8dd04}
+      \strng{authorfullhash}{15b1318136cc10da141d3d2826cc6fce}
+      \strng{authorfullhashraw}{15b1318136cc10da141d3d2826cc6fce}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{(1) Background: Detecting people and technical objects in various situations, such as natural disasters and warfare, is critical to search and rescue operations and the safety of civilians. A fast and accurate detection of people and equipment can significantly increase the effectiveness of search and rescue missions and provide timely assistance to people. Computer vision and deep learning technologies play a key role in detecting the required objects due to their ability to analyze big volumes of visual data in real-time. (2) Methods: The performance of the neural networks such as You Only Look Once ({YOLO}) v4-v8, Faster R-{CNN}, Single Shot {MultiBox} Detector ({SSD}), and {EfficientDet} has been analyzed using {COCO}2017, {SARD}, {SeaDronesSee}, and {VisDrone}2019 datasets. The main metrics for comparison were {mAP}, Precision, Recall, F1-Score, and the ability of the neural network to work in real-time. (3) Results: The most important metrics for evaluating the efficiency and performance of models for a given task are accuracy ({mAP}), F1-Score, and processing speed ({FPS}). These metrics allow us to evaluate both the accuracy of object recognition and the ability to use the models in real-world environments where high processing speed is important. (4) Conclusion: Although different neural networks perform better on certain types of metrics, {YOLO} outperforms them on all metrics, showing the best results of {mAP}-0.88, F1-0.88, and {FPS}-48, so the focus was on these models.}
+      \field{day}{11}
+      \field{issn}{2673-2688}
+      \field{journaltitle}{{AI}}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{4}
+      \field{shortjournal}{{AI}}
+      \field{title}{Comparison of {CNN}-Based Architectures for Detection of Different Object Classes}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{5}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2300\bibrangedash 2320}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.3390/ai5040113
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2673-2688/5/4/113
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2673-2688/5/4/113
+      \endverb
+    \endentry
+    \entry{boikov_synthetic_2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=25c53646b577639eea53dda225f9eeaf}{%
+           family={Boikov},
+           familyi={B\bibinitperiod},
+           given={Aleksei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64d4573f5c68592deaaa4d4e969c3f41}{%
+           family={Payor},
+           familyi={P\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=901b43f1be331c6d24cf092925189734}{%
+           family={Savelev},
+           familyi={S\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2577bf5c273157fadef81be2f121b310}{%
+           family={Kolesnikov},
+           familyi={K\bibinitperiod},
+           given={Alexandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ae144a42380ff1fb2d014f153224544a}
+      \strng{fullhash}{ddba9a2ff02393c12e39f666395462ad}
+      \strng{fullhashraw}{ddba9a2ff02393c12e39f666395462ad}
+      \strng{bibnamehash}{ddba9a2ff02393c12e39f666395462ad}
+      \strng{authorbibnamehash}{ddba9a2ff02393c12e39f666395462ad}
+      \strng{authornamehash}{ae144a42380ff1fb2d014f153224544a}
+      \strng{authorfullhash}{ddba9a2ff02393c12e39f666395462ad}
+      \strng{authorfullhashraw}{ddba9a2ff02393c12e39f666395462ad}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper presents a methodology for training neural networks for vision tasks on synthesized data on the example of steel defect recognition in automated production control systems. The article describes the process of dataset procedural generation of steel slab defects with a symmetrical distribution. The results of training two neural networks Unet and Xception on a generated data grid and testing them on real data are presented. The performance of these neural networks was assessed using real data from the Severstal: Steel Defect Detection set. In both cases, the neural networks showed good results in the classification and segmentation of surface defects of steel workpieces in the image. Dice score on synthetic data reaches 0.62, and accuracy—0.81.}
+      \field{issn}{2073-8994}
+      \field{journaltitle}{Symmetry}
+      \field{month}{7}
+      \field{note}{Number: 7 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{7}
+      \field{title}{Synthetic {Data} {Generation} for {Steel} {Defect} {Detection} and {Classification} {Using} {Deep} {Learning}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1176}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/sym13071176
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2073-8994/13/7/1176
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2073-8994/13/7/1176
+      \endverb
+      \keyw{computer vision,machine learning,steel defect detection,synthetic data}
+    \endentry
+    \entry{chai_deep_2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ed6ce77049c03b0c0fa5feb502126e73}{%
+           family={Chai},
+           familyi={C\bibinitperiod},
+           given={Junyi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42bab849c7985f57db368fcd88835550}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b620dd2097ccd461cda89519288b736}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Anming},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7608a02fb3ca1b07207deca99d5c9f27}{%
+           family={Ngai},
+           familyi={N\bibinitperiod},
+           given={Eric\bibnamedelima W.T.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4c6b4b46eb7e56037eb54fa25723fc8f}
+      \strng{fullhash}{a9d74dd728c8c63bb132f1dfd5790563}
+      \strng{fullhashraw}{a9d74dd728c8c63bb132f1dfd5790563}
+      \strng{bibnamehash}{a9d74dd728c8c63bb132f1dfd5790563}
+      \strng{authorbibnamehash}{a9d74dd728c8c63bb132f1dfd5790563}
+      \strng{authornamehash}{4c6b4b46eb7e56037eb54fa25723fc8f}
+      \strng{authorfullhash}{a9d74dd728c8c63bb132f1dfd5790563}
+      \strng{authorfullhashraw}{a9d74dd728c8c63bb132f1dfd5790563}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2666-8270}
+      \field{journaltitle}{Machine Learning with Applications}
+      \field{month}{12}
+      \field{note}{Publisher: Elsevier BV}
+      \field{shorttitle}{Deep learning in computer vision}
+      \field{title}{Deep learning in computer vision: {A} critical review of emerging techniques and application scenarios}
+      \field{urlday}{15}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{100134}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.mlwa.2021.100134
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666827021000670
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666827021000670
+      \endverb
+    \endentry
+    \entry{zhang_computer_2023}{incollection}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Singapore}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{3-{D} {Computer} {Vision}}
+      \field{isbn}{978-981-19-7579-0 978-981-19-7580-6}
+      \field{title}{Computer {Vision} {Overview}}
+      \field{urlday}{15}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 35}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1007/978-981-19-7580-6_1
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-981-19-7580-6_1
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-981-19-7580-6_1
+      \endverb
+    \endentry
+    \entry{dosovitskiy_image_2020}{misc}{}{}
+      \name{author}{12}{}{%
+        {{un=0,uniquepart=base,hash=72308762399d6ab62bbd9391c64c7bfd}{%
+           family={Dosovitskiy},
+           familyi={D\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=836254958eac09b30d45dd67a75ce4fa}{%
+           family={Beyer},
+           familyi={B\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6807e3c00242c6bf6a3179905040471b}{%
+           family={Kolesnikov},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b398fca6879fde89a032b8e7de2f26b5}{%
+           family={Weissenborn},
+           familyi={W\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00b950307c7d096765bb6df00c7c5c3a}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Xiaohua},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a47640139e63b9b5969c969dfe95def}{%
+           family={Unterthiner},
+           familyi={U\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=965baf6fa5686a42b1564330c5e11f2f}{%
+           family={Dehghani},
+           familyi={D\bibinitperiod},
+           given={Mostafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06829adce8713f0ace444279dcd7328f}{%
+           family={Minderer},
+           familyi={M\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c95269b4a2e23e1e526be521c7ec6ad4}{%
+           family={Heigold},
+           familyi={H\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=450963f966620925cb8fecd32f7a6ee1}{%
+           family={Gelly},
+           familyi={G\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=493a532418540859dca92cf3b579de2a}{%
+           family={Houlsby},
+           familyi={H\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{fullhash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{fullhashraw}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{bibnamehash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{authorbibnamehash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{authornamehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{authorfullhash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{authorfullhashraw}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place. We show that this reliance on {CNNs} is not necessary and a pure transformer applied directly to sequences of image patches can perform very well on image classification tasks. When pre-trained on large amounts of data and transferred to multiple mid-sized or small image recognition benchmarks ({ImageNet}, {CIFAR}-100, {VTAB}, etc.), Vision Transformer ({ViT}) attains excellent results compared to state-of-the-art convolutional networks while requiring substantially fewer computational resources to train.}
+      \field{note}{Version Number: 2}
+      \field{shorttitle}{An Image is Worth 16x16 Words}
+      \field{title}{An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2010.11929
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2010.11929
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2010.11929
+      \endverb
+      \keyw{Artificial Intelligence (cs.{AI}),Computer Vision and Pattern Recognition (cs.{CV}),{FOS}: Computer and information sciences,Machine Learning (cs.{LG})}
+    \endentry
+    \entry{fulir_synthetic_2023}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f3e06937e047d3629032a57380de68cd}{%
+           family={Fulir},
+           familyi={F\bibinitperiod},
+           given={Juraj},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=161701941ab13c28f10503283267c609}{%
+           family={Bosnar},
+           familyi={B\bibinitperiod},
+           given={Lovro},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=340c04bf0d05579e01e13e7be6554a4e}{%
+           family={Hagen},
+           familyi={H\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57796459b9d3b1813e7e997d2f750c9e}{%
+           family={Gospodnetić},
+           familyi={G\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC, Canada}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{07261501702e4ebad3b68405443c7a3d}
+      \strng{fullhash}{f7ca46c4c4db92713b8a319680305bf3}
+      \strng{fullhashraw}{f7ca46c4c4db92713b8a319680305bf3}
+      \strng{bibnamehash}{f7ca46c4c4db92713b8a319680305bf3}
+      \strng{authorbibnamehash}{f7ca46c4c4db92713b8a319680305bf3}
+      \strng{authornamehash}{07261501702e4ebad3b68405443c7a3d}
+      \strng{authorfullhash}{f7ca46c4c4db92713b8a319680305bf3}
+      \strng{authorfullhashraw}{f7ca46c4c4db92713b8a319680305bf3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 {IEEE}/{CVF} {Conference} on {Computer} {Vision} and {Pattern} {Recognition} {Workshops} ({CVPRW})}
+      \field{isbn}{979-8-3503-0249-3}
+      \field{month}{6}
+      \field{title}{Synthetic {Data} for {Defect} {Segmentation} on {Complex} {Metal} {Surfaces}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{4424\bibrangedash 4434}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/CVPRW59228.2023.00465
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10208376/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10208376/
+      \endverb
+    \endentry
+    \entry{fuller_digital_2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d65423e45ebd3704c01fd78f83cc5328}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={Aidan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1da679988f7d3d7bacd8878bb45304c4}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Zhong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cedbb4de65db49936aef60c36415bdd5}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b91d2a65fed72aa3aac930f7ac66fb5}{%
+           family={Barlow},
+           familyi={B\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f4ef80423af41d52cf27a14afc5e6e69}
+      \strng{fullhash}{eae98d31a490b68745284e728cf5c8bb}
+      \strng{fullhashraw}{eae98d31a490b68745284e728cf5c8bb}
+      \strng{bibnamehash}{eae98d31a490b68745284e728cf5c8bb}
+      \strng{authorbibnamehash}{eae98d31a490b68745284e728cf5c8bb}
+      \strng{authornamehash}{f4ef80423af41d52cf27a14afc5e6e69}
+      \strng{authorfullhash}{eae98d31a490b68745284e728cf5c8bb}
+      \strng{authorfullhashraw}{eae98d31a490b68745284e728cf5c8bb}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{{IEEE} Access}
+      \field{note}{Publisher: Institute of Electrical and Electronics Engineers ({IEEE})}
+      \field{shorttitle}{Digital Twin}
+      \field{title}{Digital Twin: Enabling Technologies, Challenges and Open Research}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{108952\bibrangedash 108971}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1109/access.2020.2998358
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9103025/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9103025/
+      \endverb
+    \endentry
+    \entry{noauthor_genesis-embodied-aigenesis_2025}{software}{}{}
+      \list{publisher}{1}{%
+        {Genesis {AI}}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A generative world for general-purpose robotics \& embodied {AI} learning.}
+      \field{day}{24}
+      \field{month}{8}
+      \field{note}{original-date: 2023-10-31T03:33:11Z}
+      \field{title}{Genesis-Embodied-{AI}/Genesis}
+      \field{urlday}{24}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/Genesis-Embodied-AI/Genesis
+      \endverb
+      \verb{url}
+      \verb https://github.com/Genesis-Embodied-AI/Genesis
+      \endverb
+    \endentry
+    \entry{griem_synthetic_2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8bfa4e0b28c0cf867e04acb4aad9925d}{%
+           family={Griem},
+           familyi={G\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08592a46f6758072001e47a6391bc529}{%
+           family={Koeppe},
+           familyi={K\bibinitperiod},
+           given={Arnd},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4008c0763c074a9b475f323845bb2749}{%
+           family={Greß},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=655382017c874db4e2f717152d37b72f}{%
+           family={Feser},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb9c782e3a201da6927460aa8a7f8612}{%
+           family={Nestler},
+           familyi={N\bibinitperiod},
+           given={Britta},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a19c729379325fcf94e3e5f6ada50dd1}
+      \strng{fullhash}{30046d309edc34fab2e336d640f4a879}
+      \strng{fullhashraw}{30046d309edc34fab2e336d640f4a879}
+      \strng{bibnamehash}{30046d309edc34fab2e336d640f4a879}
+      \strng{authorbibnamehash}{30046d309edc34fab2e336d640f4a879}
+      \strng{authornamehash}{a19c729379325fcf94e3e5f6ada50dd1}
+      \strng{authorfullhash}{30046d309edc34fab2e336d640f4a879}
+      \strng{authorfullhashraw}{30046d309edc34fab2e336d640f4a879}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{13596454}
+      \field{journaltitle}{Acta Materialia}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shortjournal}{Acta Materialia}
+      \field{title}{Synthetic training data for {CT} image segmentation of microstructures}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{296}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{121220}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.actamat.2025.121220
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1359645425005075
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1359645425005075
+      \endverb
+    \endentry
+    \entry{hadadan_generative_2025}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=e3332b9c2adbf4516497c30923146bad}{%
+           family={Hadadan},
+           familyi={H\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d719f983d168cecbe3d5d1d8fb9e64b3}{%
+           family={Bitterli},
+           familyi={B\bibinitperiod},
+           given={Benedikt},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d37a67c2c1dd1b40e5f6cd2fddf81cf}{%
+           family={Zeltner},
+           familyi={Z\bibinitperiod},
+           given={Tizian},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb871242c3cc6b59592dcb005fddd0cd}{%
+           family={Novák},
+           familyi={N\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=734b8d68d008ab2262a7d1d041f06e86}{%
+           family={Rousselle},
+           familyi={R\bibinitperiod},
+           given={Fabrice},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89515eb54ce31e956c0cfdbe5423ab60}{%
+           family={Munkberg},
+           familyi={M\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9842cd8a2db2500fc43800d94ae836bc}{%
+           family={Hasselgren},
+           familyi={H\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8199edc3ea5eebad4078f66417df40b5}{%
+           family={Wronski},
+           familyi={W\bibinitperiod},
+           given={Bartlomiej},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8b89b955dad449fd9254a354c6041d2}{%
+           family={Zwicker},
+           familyi={Z\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18363959a962933c49804cabb26f13a2}
+      \strng{fullhash}{e4ef4e286126f9b1a3db6ec60609ceb4}
+      \strng{fullhashraw}{e4ef4e286126f9b1a3db6ec60609ceb4}
+      \strng{bibnamehash}{e4ef4e286126f9b1a3db6ec60609ceb4}
+      \strng{authorbibnamehash}{e4ef4e286126f9b1a3db6ec60609ceb4}
+      \strng{authornamehash}{18363959a962933c49804cabb26f13a2}
+      \strng{authorfullhash}{e4ef4e286126f9b1a3db6ec60609ceb4}
+      \strng{authorfullhashraw}{e4ef4e286126f9b1a3db6ec60609ceb4}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a tool for enhancing the detail of physically based materials using an off-the-shelf diffusion model and inverse rendering. Our goal is to enhance the visual fidelity of materials with detail that is often tedious to author, by adding signs of wear, aging, weathering, etc. As these appearance details are often rooted in real-world processes, we leverage a generative image model trained on a large dataset of natural images with corresponding visuals in context. Starting with a given geometry, UV mapping, and basic appearance, we render multiple views of the object. We use these views, together with an appearance-defining text prompt, to condition a diffusion model. The details it generates are then backpropagated from the enhanced images to the material parameters via inverse differentiable rendering. For inverse rendering to be successful, the generated appearance has to be consistent across all the images. We propose two priors to address the multi-view consistency of the diffusion model. First, we ensure that the initial noise that seeds the diffusion process is itself consistent across views by integrating it from a view-independent UV space. Second, we enforce geometric consistency by biasing the attention mechanism via a projective constraint so that pixels attend strongly to their corresponding pixel locations in other views. Our approach does not require any training or finetuning of the diffusion model, is agnostic of the material model used, and the enhanced material properties, i.e., 2D PBR textures, can be further edited by artists. This project is available at https://generative-detail.github.io.}
+      \field{note}{Publisher: arXiv Version Number: 2}
+      \field{title}{Generative {Detail} {Enhancement} for {Physically} {Based} {Materials}}
+      \field{urlday}{11}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2502.13994
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2502.13994
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2502.13994
+      \endverb
+      \keyw{FOS: Computer and information sciences,Artificial Intelligence (cs.AI),Graphics (cs.GR)}
+    \endentry
+    \entry{hevner_design_2004}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7c8651e0aca7dcbea4fc4ff36749436b}{%
+           family={{Hevner}},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fa3e5edac607a88d8fd7ecb9d6d67424}{%
+           family={{March}},
+           familyi={M\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=910101318275914a9f141d4e255bf8c8}{%
+           family={{Park}},
+           familyi={P\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e5d284b6015067eaa11e06b809fe6f13}{%
+           family={{Ram}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{65a0d6ba5b631c80963eda1bdf43cc4a}
+      \strng{fullhash}{9668a27237fbbc85eb053c366fa61983}
+      \strng{fullhashraw}{9668a27237fbbc85eb053c366fa61983}
+      \strng{bibnamehash}{9668a27237fbbc85eb053c366fa61983}
+      \strng{authorbibnamehash}{9668a27237fbbc85eb053c366fa61983}
+      \strng{authornamehash}{65a0d6ba5b631c80963eda1bdf43cc4a}
+      \strng{authorfullhash}{9668a27237fbbc85eb053c366fa61983}
+      \strng{authorfullhashraw}{9668a27237fbbc85eb053c366fa61983}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02767783}
+      \field{journaltitle}{{MIS} Quarterly}
+      \field{number}{1}
+      \field{shortjournal}{{MIS} Quarterly}
+      \field{title}{Design Science in Information Systems Research}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{28}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{75}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/25148625
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/10.2307/25148625
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/10.2307/25148625
+      \endverb
+    \endentry
+    \entry{holtbrugge_remote_2007}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7c6c8f28c1cf5f72dcdc0481d9198366}{%
+           family={Holtbrügge},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187a76fa548148cfe08680425db39bb9}{%
+           family={Holzmüller},
+           familyi={H\bibinitperiod},
+           given={Hartmut\bibnamedelima H.},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2eb1f30ccd1fb1f6f33972e8009e2234}{%
+           family={Von\bibnamedelima Wangenheim},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Universitäts-Verlag}%
+      }
+      \strng{namehash}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{fullhash}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{fullhashraw}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{bibnamehash}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{authorbibnamehash}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{authornamehash}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{authorfullhash}{ef57ca3569683ce6da1eee19ebb7852d}
+      \strng{authorfullhashraw}{ef57ca3569683ce6da1eee19ebb7852d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1. Aufl}
+      \field{isbn}{978-3-8350-9515-1}
+      \field{note}{{OCLC}: 401509773}
+      \field{shorttitle}{Remote Services}
+      \field{title}{Remote Services: neue Formen der Internationalisierung von Dienstleistungen}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{hutten_vision_2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=af8f150d6fbf69490d89b96ed6ddecbb}{%
+           family={Hütten},
+           familyi={H\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2328c11e562dbe5f8b15822c36e027d}{%
+           family={Meyes},
+           familyi={M\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f7ab5e1dd44cb4727c585ff2da5bd54}{%
+           family={Meisen},
+           familyi={M\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{fullhash}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{fullhashraw}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{bibnamehash}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{authorbibnamehash}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{authornamehash}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{authorfullhash}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \strng{authorfullhashraw}{553b5f2c1f7e5e613d5b8183ee78c33e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Artificial intelligence as an approach to visual inspection in industrial applications has been considered for decades. Recent successes, driven by advances in deep learning, present a potential paradigm shift and have the potential to facilitate an automated visual inspection, even under complex environmental conditions. Thereby, convolutional neural networks ({CNN}) have been the de facto standard in deep-learning-based computer vision ({CV}) for the last 10 years. Recently, attention-based vision transformer architectures emerged and surpassed the performance of {CNNs} on benchmark datasets, regarding regular {CV} tasks, such as image classification, object detection, or segmentation. Nevertheless, despite their outstanding results, the application of vision transformers to real world visual inspection is sparse. We suspect that this is likely due to the assumption that they require enormous amounts of data to be effective. In this study, we evaluate this assumption. For this, we perform a systematic comparison of seven widely-used state-of-the-art {CNN} and transformer based architectures trained in three different use cases in the domain of visual damage assessment for railway freight car maintenance. We show that vision transformer models achieve at least equivalent performance to {CNNs} in industrial applications with sparse data available, and significantly surpass them in increasingly complex tasks.}
+      \field{day}{23}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{note}{Publisher: {MDPI} {AG}}
+      \field{number}{23}
+      \field{title}{Vision Transformer in Industrial Visual Inspection}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11981}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app122311981
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/12/23/11981
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/12/23/11981
+      \endverb
+    \endentry
+    \entry{noauthor_isaac_nodate}{online}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Isaac Sim Requirements — Isaac Sim Documentation}
+      \field{urlday}{24}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Isaac Sim Requirements — Isaac Sim Documentation:C\:\\Users\\Felix\\Zotero\\storage\\RFVRHYU3\\requirements.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://docs.isaacsim.omniverse.nvidia.com/latest/installation/requirements.html
+      \endverb
+      \verb{url}
+      \verb https://docs.isaacsim.omniverse.nvidia.com/latest/installation/requirements.html
+      \endverb
+    \endentry
+    \entry{jain_synthetic_2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a795c0e60502d5915e84f9d1ce1c937d}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Saksham},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1d5d5c8d8a0b7cf09f49035ca41de49}{%
+           family={Seth},
+           familyi={S\bibinitperiod},
+           given={Gautam},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=808a237a4d000147c50d909ec9d9fa34}{%
+           family={Paruthi},
+           familyi={P\bibinitperiod},
+           given={Arpit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=684515cafcd76577222bcc9bf8946330}{%
+           family={Soni},
+           familyi={S\bibinitperiod},
+           given={Umang},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=195fd44e31dba6df5ee8dacd5035eab8}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Girish},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6c17e411270efe152ace1915df6038d1}
+      \strng{fullhash}{c14be359e3e560d7105b7a227e2650ae}
+      \strng{fullhashraw}{c14be359e3e560d7105b7a227e2650ae}
+      \strng{bibnamehash}{c14be359e3e560d7105b7a227e2650ae}
+      \strng{authorbibnamehash}{c14be359e3e560d7105b7a227e2650ae}
+      \strng{authornamehash}{6c17e411270efe152ace1915df6038d1}
+      \strng{authorfullhash}{c14be359e3e560d7105b7a227e2650ae}
+      \strng{authorfullhashraw}{c14be359e3e560d7105b7a227e2650ae}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deep learning techniques, especially Convolutional Neural Networks (CNN), dominate the benchmarks for most computer vision tasks. These state-of-the-art results are typically obtained through supervised learning, for which large annotated datasets are required. However, acquiring such datasets for manufacturing applications remains a challenging proposition due to the time and costs involved in their collection. To overcome this disadvantage, a novel framework is proposed for data augmentation by creating synthetic images using Generative Adversarial Networks (GANs). The generator synthesizes new surface defect images from random noise which is trained over time to get realistic fakes. These synthetic images can be used further for training of classification algorithms. Three GAN architectures are trained, and the entire data augmentation pipeline is implemented for the Northeastern University (China) Classification (NEU-CLS) dataset for hot-rolled steel strips from NEU Surface Defect Database. The classification accuracy of a simple CNN architecture is measured on synthetic augmented data and further it is compared with similar state-of-the-arts. It is observed that the proposed GANs-based augmentation scheme significantly improves the performance of CNN for classification of surface defects. The classically augmented CNN yields sensitivity and specificity of 90.28\% and 98.06\% respectively. In contrast, the synthetically augmented CNN yields better results, with sensitivity and specificity of 95.33\% and 99.16\% respectively. Also, the use of GANs is demonstrated to disentangle the representation space and to add additional domain knowledge through synthetic augmentation that can be difficult to replicate through classic augmentation. The proposed framework demonstrates high generalization capability. It may be applied to other supervised surface inspection tasks, and thus facilitate the development of advanced vision-based inspection instruments for manufacturing applications.}
+      \field{issn}{1572-8145}
+      \field{journaltitle}{Journal of Intelligent Manufacturing}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Synthetic data augmentation for surface defect detection and classification using deep learning}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{33}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{1007\bibrangedash 1020}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s10845-020-01710-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10845-020-01710-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10845-020-01710-x
+      \endverb
+      \keyw{Deep learning,Artificial Intelligence,Artificial photosynthesis,Classification,Convolutional neural network,Generative adversarial network,Intelligence Augmentation,Machine Learning,Surface defects,Surface patterning,Virtual and Augmented Reality}
+    \endentry
+    \entry{jamil_comprehensive_2022}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c5dd758e2f3b11bcda0e66acb80a29ee}{%
+           family={Jamil},
+           familyi={J\bibinitperiod},
+           given={Sonain},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8430da2332b95fe8c038bc8c884a42c}{%
+           family={Piran},
+           familyi={P\bibinitperiod},
+           given={Md.\bibnamedelimi Jalil},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1e0ca771dca938941b57000fcf67c6d}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Oh-Jin},
+           giveni={O\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{fullhash}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{fullhashraw}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{bibnamehash}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{authorbibnamehash}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{authornamehash}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{authorfullhash}{3a86d0efb5b0519d4a28e4627533882b}
+      \strng{authorfullhashraw}{3a86d0efb5b0519d4a28e4627533882b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As a special type of transformer, Vision Transformers ({ViTs}) are used to various computer vision applications ({CV}), such as image recognition. There are several potential problems with convolutional neural networks ({CNNs}) that can be solved with {ViTs}. For image coding tasks like compression, super-resolution, segmentation, and denoising, different variants of the {ViTs} are used. The purpose of this survey is to present the first application of {ViTs} in {CV}. The survey is the first of its kind on {ViTs} for {CVs} to the best of our knowledge. In the first step, we classify different {CV} applications where {ViTs} are applicable. {CV} applications include image classification, object detection, image segmentation, image compression, image super-resolution, image denoising, and anomaly detection. Our next step is to review the state-of-the-art in each category and list the available models. Following that, we present a detailed analysis and comparison of each model and list its pros and cons. After that, we present our insights and lessons learned for each category. Moreover, we discuss several open research challenges and future research directions.}
+      \field{note}{Version Number: 1}
+      \field{title}{A Comprehensive Survey of Transformers for Computer Vision}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2211.06004
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2211.06004
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2211.06004
+      \endverb
+      \keyw{Computer Vision and Pattern Recognition (cs.{CV}),{FOS}: Computer and information sciences}
+    \endentry
+    \entry{jing_convolutional_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8d9491a960720e44682f37fa131f670c}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Luyang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7a7a826b23381cf98a59161f42cf24e}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6c0408eb817033d20e2b29df6544b0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Pin},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9677e26ce0d14d5651368d7a8a12f101}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaoqiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{beb8adfc95ca016ef97819b7cf6ec7e1}
+      \strng{fullhash}{5f8793e5f776aed4c0c904917e183363}
+      \strng{fullhashraw}{5f8793e5f776aed4c0c904917e183363}
+      \strng{bibnamehash}{5f8793e5f776aed4c0c904917e183363}
+      \strng{authorbibnamehash}{5f8793e5f776aed4c0c904917e183363}
+      \strng{authornamehash}{beb8adfc95ca016ef97819b7cf6ec7e1}
+      \strng{authorfullhash}{5f8793e5f776aed4c0c904917e183363}
+      \strng{authorfullhashraw}{5f8793e5f776aed4c0c904917e183363}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0263-2241}
+      \field{journaltitle}{Measurement}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{note}{Publisher: Elsevier {BV}}
+      \field{title}{A convolutional neural network based feature learning and fault diagnosis method for the condition monitoring of gearbox}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{111}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.measurement.2017.07.017
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0263224117304517
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0263224117304517
+      \endverb
+    \endentry
+    \entry{yolo11_ultralytics}{software}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c5c5e5cd7f4f477f617289b32613deb0}{%
+           family={Jocher},
+           familyi={J\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8739ebbf3f871d471b6720a02ed541f}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{fullhash}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{fullhashraw}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{bibnamehash}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{authorbibnamehash}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{authornamehash}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{authorfullhash}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \strng{authorfullhashraw}{7ffa0dad9709ac21fa40cfa507db39d1}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ultralytics YOLO11}
+      \field{version}{11.0.0}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/ultralytics/ultralytics
+      \endverb
+      \verb{url}
+      \verb https://github.com/ultralytics/ultralytics
+      \endverb
+    \endentry
+    \entry{khan_survey_2023}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=4225801de04136fc9a4203c207ccd567}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Asifullah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e150058941a0b5275b163d8b07b0fd1d}{%
+           family={Rauf},
+           familyi={R\bibinitperiod},
+           given={Zunaira},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0482dd42619faa38857f4f66eec8f806}{%
+           family={Sohail},
+           familyi={S\bibinitperiod},
+           given={Anabia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9c0663fb26adf5d5e5f066b1201cc80}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Abdul\bibnamedelima Rehman},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4275729094c319a2e2bc44ae625f06c}{%
+           family={Asif},
+           familyi={A\bibinitperiod},
+           given={Hifsa},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c4af7195815dea6332c90e223af0a5b}{%
+           family={Asif},
+           familyi={A\bibinitperiod},
+           given={Aqsa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c1b3e06c4a6aeee7578786c32ba2449}{%
+           family={Farooq},
+           familyi={F\bibinitperiod},
+           given={Umair},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b821fa44ac7393b9c6a7810125207d23}
+      \strng{fullhash}{e1df4827de82925d1b7061be3de4660e}
+      \strng{fullhashraw}{e1df4827de82925d1b7061be3de4660e}
+      \strng{bibnamehash}{e1df4827de82925d1b7061be3de4660e}
+      \strng{authorbibnamehash}{e1df4827de82925d1b7061be3de4660e}
+      \strng{authornamehash}{b821fa44ac7393b9c6a7810125207d23}
+      \strng{authorfullhash}{e1df4827de82925d1b7061be3de4660e}
+      \strng{authorfullhashraw}{e1df4827de82925d1b7061be3de4660e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-2821, 1573-7462}
+      \field{issue}{S3}
+      \field{journaltitle}{Artificial Intelligence Review}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shortjournal}{Artif Intell Rev}
+      \field{title}{A survey of the vision transformers and their {CNN}-transformer based variants}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{56}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2917\bibrangedash 2970}
+      \range{pages}{54}
+      \verb{doi}
+      \verb 10.1007/s10462-023-10595-0
+      \endverb
+      \verb{file}
+      \verb Eingereichte Version:C\:\\Users\\Felix\\Zotero\\storage\\9WBHHTRU\\Khan et al. - 2023 - A survey of the vision transformers and their CNN-transformer based variants.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s10462-023-10595-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s10462-023-10595-0
+      \endverb
+    \endentry
+    \entry{khanam_comprehensive_2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a94f326244d9ab506d3da2d9aa20e3c0}{%
+           family={Khanam},
+           familyi={K\bibinitperiod},
+           given={Rahima},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=506b587186b760b2f884e19c703f7ffd}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29a51c34a6b90361751e8080aa8c3692}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d7b89ee174188cad14e196cdd78090c}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4de802bde5bc0ca0e40577bfd09fcd56}
+      \strng{fullhash}{4c895e63ce9091db5e62e6e2120b43ef}
+      \strng{fullhashraw}{4c895e63ce9091db5e62e6e2120b43ef}
+      \strng{bibnamehash}{4c895e63ce9091db5e62e6e2120b43ef}
+      \strng{authorbibnamehash}{4c895e63ce9091db5e62e6e2120b43ef}
+      \strng{authornamehash}{4de802bde5bc0ca0e40577bfd09fcd56}
+      \strng{authorfullhash}{4c895e63ce9091db5e62e6e2120b43ef}
+      \strng{authorfullhashraw}{4c895e63ce9091db5e62e6e2120b43ef}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Quality inspection and defect detection remain critical challenges across diverse industrial applications. Driven by advancements in Deep Learning, Convolutional Neural Networks (CNNs) have revolutionized Computer Vision, enabling breakthroughs in image analysis tasks like classification and object detection. CNNs’ feature learning and classification capabilities have made industrial defect detection through Machine Vision one of their most impactful applications. This article aims to showcase practical applications of CNN models for surface defect detection across various industrial scenarios, from pallet racks to display screens. The review explores object detection methodologies and suitable hardware platforms for deploying CNN-based architectures. The growing Industry 4.0 adoption necessitates enhancing quality inspection processes. The main results demonstrate CNNs’ efficacy in automating defect detection, achieving high accuracy and real-time performance across different surfaces. However, challenges like limited datasets, computational complexity, and domain-specific nuances require further research. Overall, this review acknowledges CNNs’ potential as a transformative technology for industrial vision applications, with practical implications ranging from quality control enhancement to cost reductions and process optimization.}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{A {Comprehensive} {Review} of {Convolutional} {Neural} {Networks} for {Defect} {Detection} in {Industrial} {Applications}}
+      \field{urlday}{28}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{94250\bibrangedash 94295}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2024.3425166
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/10589380
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/10589380
+      \endverb
+      \keyw{Reviews,Deep learning,Convolutional neural networks,Computer vision,deep learning,Defect detection,Inspection,Manufacturing processes,Artificial intelligence,Computer architecture,convolutional neural network,Hardware,industrial defect detection,object detection,Quality assessment,quality inspection: manufacturing}
+    \endentry
+    \entry{khirodkar_domain_2018}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b3d42acb4fe90e85875ffce482ee2a52}{%
+           family={Khirodkar},
+           familyi={K\bibinitperiod},
+           given={Rawal},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98b2dfd94d96eb295512bfe399506f92}{%
+           family={Yoo},
+           familyi={Y\bibinitperiod},
+           given={Donghyun},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=994bb86e3815b1df0d1868fc16fb4866}{%
+           family={Kitani},
+           familyi={K\bibinitperiod},
+           given={Kris\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{fullhash}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{fullhashraw}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{bibnamehash}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{authorbibnamehash}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{authornamehash}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{authorfullhash}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \strng{authorfullhashraw}{9ae95f4915ff026aaa248bfdaf9bda7c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We address the issue of domain gap when making use of synthetic data to train a scene-specific object detector and pose estimator. While previous works have shown that the constraints of learning a scene-specific model can be leveraged to create geometrically and photometrically consistent synthetic data, care must be taken to design synthetic content which is as close as possible to the real-world data distribution. In this work, we propose to solve domain gap through the use of appearance randomization to generate a wide range of synthetic objects to span the space of realistic images for training. An ablation study of our results is presented to delineate the individual contribution of different components in the randomization process. We evaluate our method on {VIRAT}, {UA}-{DETRAC}, {EPFL}-Car datasets, where we demonstrate that using scene specific domain randomized synthetic data is better than fine-tuning off-the-shelf models on limited real data.}
+      \field{note}{Version Number: 1}
+      \field{title}{Domain Randomization for Scene-Specific Car Detection and Pose Estimation}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1811.05939
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1811.05939
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1811.05939
+      \endverb
+      \keyw{Computer Vision and Pattern Recognition (cs.{CV}),{FOS}: Computer and information sciences}
+    \endentry
+    \entry{kritzinger_digital_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8d80d5b5ee79734f97fd33c812d6dac6}{%
+           family={Kritzinger},
+           familyi={K\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=311ca48099d155aefc853ee2d37c45bc}{%
+           family={Karner},
+           familyi={K\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48040ca6c54ba95c232e885a81b7520c}{%
+           family={Traar},
+           familyi={T\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=598ac4328313a0283b8c797e6fd89147}{%
+           family={Henjes},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a55899cfc23803210eff138ac04eaa3}{%
+           family={Sihn},
+           familyi={S\bibinitperiod},
+           given={Wilfried},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7423993c1548bda37e04a6629b9c6416}
+      \strng{fullhash}{fe9b64fcc683144e05e14022e4a34955}
+      \strng{fullhashraw}{fe9b64fcc683144e05e14022e4a34955}
+      \strng{bibnamehash}{fe9b64fcc683144e05e14022e4a34955}
+      \strng{authorbibnamehash}{fe9b64fcc683144e05e14022e4a34955}
+      \strng{authornamehash}{7423993c1548bda37e04a6629b9c6416}
+      \strng{authorfullhash}{fe9b64fcc683144e05e14022e4a34955}
+      \strng{authorfullhashraw}{fe9b64fcc683144e05e14022e4a34955}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2405-8963}
+      \field{journaltitle}{{IFAC}-{PapersOnLine}}
+      \field{langid}{english}
+      \field{note}{Publisher: Elsevier {BV}}
+      \field{number}{11}
+      \field{shorttitle}{Digital Twin in manufacturing}
+      \field{title}{Digital Twin in manufacturing: A categorical literature review and classification}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{51}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1016\bibrangedash 1022}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.ifacol.2018.08.474
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2405896318316021
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2405896318316021
+      \endverb
+    \endentry
+    \entry{liu_review_2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1556b4597de129e3f8cbcacd5a107e80}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mengnan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c82ac58f09499ca29265f7591096d8d}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Shuiliang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1975819a88e652266f0c660512b08cec}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Huiyue},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2622229822b81009f5a554fff8145c6d}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Cunzhi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65a04f026e2ed09f60ed42491dd7a96f}
+      \strng{fullhash}{b9b6ffb2658882fce53b6d3a1e9977c7}
+      \strng{fullhashraw}{b9b6ffb2658882fce53b6d3a1e9977c7}
+      \strng{bibnamehash}{b9b6ffb2658882fce53b6d3a1e9977c7}
+      \strng{authorbibnamehash}{b9b6ffb2658882fce53b6d3a1e9977c7}
+      \strng{authornamehash}{65a04f026e2ed09f60ed42491dd7a96f}
+      \strng{authorfullhash}{b9b6ffb2658882fce53b6d3a1e9977c7}
+      \strng{authorfullhashraw}{b9b6ffb2658882fce53b6d3a1e9977c7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02786125}
+      \field{journaltitle}{Journal of Manufacturing Systems}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Journal of Manufacturing Systems}
+      \field{title}{Review of digital twin about concepts, technologies, and industrial applications}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{58}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{346\bibrangedash 361}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jmsy.2020.06.017
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612520301072
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612520301072
+      \endverb
+    \endentry
+    \entry{manettas_synthetic_2021}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dd3a6477451933168f242c33b6e509d1}{%
+           family={Manettas},
+           familyi={M\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6e28b2531f4b6034e04f70200c28a6a}{%
+           family={Nikolakis},
+           familyi={N\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9e78583482f39f491518772550d9d6c}{%
+           family={Alexopoulos},
+           familyi={A\bibinitperiod},
+           given={Kosmas},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{fullhash}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{fullhashraw}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{bibnamehash}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{authorbibnamehash}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{authornamehash}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{authorfullhash}{ba1aa04788b586d2c7860c34a815c276}
+      \strng{authorfullhashraw}{ba1aa04788b586d2c7860c34a815c276}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Artificial Intelligence applications based on Machine Learning methods are widely accepted as promising technologies in manufacturing. Deep Learning (DL) techniques, such as Convolutional Neural Networks (CNN), are successfully used in many computer-vision tasks in manufacturing. These state-of-the-art techniques are requiring large volumes of annotated datasets for training. However, such an approach is expensive, prone to errors and labor as well as time intensive, especially in highly complex and dynamic production environments. Synthetic datasets can be utilized for accelerating the training phase of DL by creating suitable training datasets. This work presents a framework for generating datasets through a chain of simulation tools. The framework is used for generating synthetic images of manufactured parts. States of the parts such as the rotation in different rotation axis need to be recognized by a computer-vision system that assists a manufacturing operation. A number of prior trained CNNs are retrained with the synthetically generated images. The CNNs are tested upon actual images of manufactured parts. The performance of different CNN models is presented, compared and discussed. The results indicate that CNNs trained on synthetically generated datasets may have acceptable performance when used in for assisting tasks in manufacturing.}
+      \field{month}{10}
+      \field{note}{Journal Abbreviation: Procedia CIRP Pages: 242 Publication Title: Procedia CIRP}
+      \field{title}{Synthetic datasets for {Deep} {Learning} in computer-vision assisted tasks in manufacturing}
+      \field{volume}{103}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.procir.2021.10.038
+      \endverb
+    \endentry
+    \entry{mercorelli_recent_2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b962bb6b4e97a88576426c1545649b95}{%
+           family={Mercorelli},
+           familyi={M\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b962bb6b4e97a88576426c1545649b95}
+      \strng{fullhash}{b962bb6b4e97a88576426c1545649b95}
+      \strng{fullhashraw}{b962bb6b4e97a88576426c1545649b95}
+      \strng{bibnamehash}{b962bb6b4e97a88576426c1545649b95}
+      \strng{authorbibnamehash}{b962bb6b4e97a88576426c1545649b95}
+      \strng{authornamehash}{b962bb6b4e97a88576426c1545649b95}
+      \strng{authorfullhash}{b962bb6b4e97a88576426c1545649b95}
+      \strng{authorfullhashraw}{b962bb6b4e97a88576426c1545649b95}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fault-finding diagnostics is a model-driven approach that identifies a system’s malfunctioning portion. It uses residual generators to identify faults, and various methods like isolation techniques and structural analysis are used. However, diagnostic equipment doesn’t measure the remaining signal-to-noise ratio. Residual selection identifies fault-detecting generators. Fault detective diagnostic ({FDD}) approaches have been investigated and implemented for various industrial processes. However, industrial operations make it difficult to implement {FDD} techniques. To bridge the gap between theoretical methodologies and implementations, hybrid approaches and intelligent procedures are needed. Future research should focus on improving fault prognosis, allowing for accurate prediction of process failures and avoiding safety hazards. Real-time and comprehensive {FDD} strategies should be implemented in the age of big data.}
+      \field{day}{22}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{8}
+      \field{shortjournal}{Sensors}
+      \field{title}{Recent Advances in Intelligent Algorithms for Fault Detection and Diagnosis}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2656}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s24082656
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/24/8/2656
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/24/8/2656
+      \endverb
+    \endentry
+    \entry{mikolajewska_generative_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9024bbff726f9e21a35db0b58f68a934}{%
+           family={Mikołajewska},
+           familyi={M\bibinitperiod},
+           given={Emilia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36fbbb9ff13f042d4e40ac6f8b33b00a}{%
+           family={Mikołajewski},
+           familyi={M\bibinitperiod},
+           given={Dariusz},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9e5e27aa66062d314ae0fa45e4ccedc}{%
+           family={Mikołajczyk},
+           familyi={M\bibinitperiod},
+           given={Tadeusz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a41bd291bd57b8eca4d2c96e20f57e1b}{%
+           family={Paczkowski},
+           familyi={P\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{827aa0b9d7bfa886f7a2bd56aaac0824}
+      \strng{fullhash}{5c2dbf86de0db32f2dfd543065e8ff11}
+      \strng{fullhashraw}{5c2dbf86de0db32f2dfd543065e8ff11}
+      \strng{bibnamehash}{5c2dbf86de0db32f2dfd543065e8ff11}
+      \strng{authorbibnamehash}{5c2dbf86de0db32f2dfd543065e8ff11}
+      \strng{authornamehash}{827aa0b9d7bfa886f7a2bd56aaac0824}
+      \strng{authorfullhash}{5c2dbf86de0db32f2dfd543065e8ff11}
+      \strng{authorfullhashraw}{5c2dbf86de0db32f2dfd543065e8ff11}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Generative {AI} ({GenAI}) is revolutionizing digital twins ({DTs}) for fault diagnosis and predictive maintenance in Industry 4.0 and 5.0 by enabling real-time simulation, data augmentation, and improved anomaly detection. {DTs}, virtual replicas of physical systems, already use generative models to simulate various failure scenarios and rare events, improving system resilience and failure prediction accuracy. They create synthetic datasets that improve training quality while addressing data scarcity and data imbalance. The aim of this paper was to present the current state of the art and perspectives for using {AI}-based generative {DTs} for fault diagnosis for predictive maintenance in Industry 4.0/5.0. With {GenAI}, {DTs} enable proactive maintenance and minimize downtime, and their latest implementations combine multimodal sensor data to generate more realistic and actionable insights into system performance. This provides realistic operational profiles, identifying potential failure scenarios that traditional methods may miss. New perspectives in this area include the incorporation of Explainable {AI} ({XAI}) to increase transparency in decision-making and improve reliability in key industries such as manufacturing, energy, and healthcare. As Industry 5.0 emphasizes a human-centric approach, {AI}-based generative {DT} can seamlessly integrate with human operators to support collaboration and decision-making. The implementation of edge computing increases the scalability and real-time capabilities of {DTs} in smart factories and industrial Internet of Things ({IoT}) systems. Future advances may include federated learning to ensure data privacy while enabling data exchange between enterprises for fault diagnostics, and the evolution of {GenAI} alongside industrial systems, ensuring their long-term validity. However, challenges remain in managing computational complexity, ensuring data security, and addressing ethical issues during implementation.}
+      \field{day}{14}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{6}
+      \field{shortjournal}{Applied Sciences}
+      \field{title}{Generative {AI} in {AI}-Based Digital Twins for Fault Diagnosis for Predictive Maintenance in Industry 4.0/5.0}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3166}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app15063166
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/15/6/3166
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/15/6/3166
+      \endverb
+    \endentry
+    \entry{monnet_investigating_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac2c78a0586304328daf9542ecd1b5f4}{%
+           family={Monnet},
+           familyi={M\bibinitperiod},
+           given={Josefine},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d704e32b82f0814df166da47f8021460}{%
+           family={Petrovic},
+           familyi={P\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c9d2e02343e067cb56664e3f74e4be1}{%
+           family={Herfs},
+           familyi={H\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{fullhash}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{fullhashraw}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{bibnamehash}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{authorbibnamehash}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{authornamehash}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{authorfullhash}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \strng{authorfullhashraw}{a7c6740b372f21dd1df1bcd1f24d487c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{22128271}
+      \field{journaltitle}{Procedia CIRP}
+      \field{shorttitle}{Investigating the generation of synthetic data for surface defect detection}
+      \field{title}{Investigating the generation of synthetic data for surface defect detection: {A} comparative analysis}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{130}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{767\bibrangedash 773}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.procir.2024.10.162
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212827124013192
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212827124013192
+      \endverb
+    \endentry
+    \entry{nvidia_isaac_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2fe9051fe051f819bd739ef3e340377}{%
+           family={{NVIDIA}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{bibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorbibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authornamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{8}
+      \field{title}{Isaac Sim Documentation}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
+      \endverb
+      \verb{url}
+      \verb https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
+      \endverb
+    \endentry
+    \entry{nvidia_replicator_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2fe9051fe051f819bd739ef3e340377}{%
+           family={{NVIDIA}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{bibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorbibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authornamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{8}
+      \field{title}{Omniverse Replicator}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator.html
+      \endverb
+      \verb{url}
+      \verb https://docs.omniverse.nvidia.com/extensions/latest/ext_replicator.html
+      \endverb
+    \endentry
+    \entry{nvidia_omniverse_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2fe9051fe051f819bd739ef3e340377}{%
+           family={{NVIDIA}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{bibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorbibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authornamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{8}
+      \field{title}{Omniverse {USD} Composer}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.omniverse.nvidia.com/composer/latest/index.html
+      \endverb
+      \verb{url}
+      \verb https://docs.omniverse.nvidia.com/composer/latest/index.html
+      \endverb
+    \endentry
+    \entry{peffers_design_2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3127efe8cdd4557b7228a8724f568529}{%
+           family={Peffers},
+           familyi={P\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b17b21a3e4c61d1302f46cba38c6e50}{%
+           family={Tuunanen},
+           familyi={T\bibinitperiod},
+           given={Tuure},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33ad207ea3031c6d744a31f5bc43c547}{%
+           family={Rothenberger},
+           familyi={R\bibinitperiod},
+           given={Marcus\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
+      \strng{fullhash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{fullhashraw}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{bibnamehash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authorbibnamehash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authornamehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
+      \strng{authorfullhash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authorfullhashraw}{0d82c455b50c2b184d97697dac2e8660}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0742-1222, 1557-928X}
+      \field{journaltitle}{Journal of Management Information Systems}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{3}
+      \field{shortjournal}{Journal of Management Information Systems}
+      \field{title}{A Design Science Research Methodology for Information Systems Research}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{24}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{45\bibrangedash 77}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.2753/MIS0742-1222240302
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.2753/MIS0742-1222240302
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.2753/MIS0742-1222240302
+      \endverb
+    \endentry
+    \entry{peterson_synthetic_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0e2ff85a18a7c754af692b752560fe2e}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f2d2fc62eeff6d1f580f380ab77e250}{%
+           family={Rajuroy},
+           familyi={R\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd736667101030fc4ad4ae1790c65268}
+      \strng{fullhash}{bd736667101030fc4ad4ae1790c65268}
+      \strng{fullhashraw}{bd736667101030fc4ad4ae1790c65268}
+      \strng{bibnamehash}{bd736667101030fc4ad4ae1790c65268}
+      \strng{authorbibnamehash}{bd736667101030fc4ad4ae1790c65268}
+      \strng{authornamehash}{bd736667101030fc4ad4ae1790c65268}
+      \strng{authorfullhash}{bd736667101030fc4ad4ae1790c65268}
+      \strng{authorfullhashraw}{bd736667101030fc4ad4ae1790c65268}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The rapid advancements in artificial intelligence (AI) are driving the demand for large-scale, high-quality data, essential for training, testing, and validating AI models. However, real-world data collection is often costly, time-consuming, and constrained by privacy and ethical considerations. To address these challenges, synthetic data generation and digital twin integration have emerged as transformative technologies that enable scalable and efficient AI simulations. Synthetic data replicates real-world patterns while maintaining data diversity and eliminating privacy concerns. Meanwhile, digital twins-virtual representations of physical systems-offer dynamic, real-time simulation environments for modeling complex processes and systems. This paper explores the synergistic integration of synthetic data and digital twins to enhance AI model development across domains such as smart cities, healthcare, autonomous vehicles, and manufacturing. By leveraging synthetic data generated from digital twin environments, AI systems can simulate diverse scenarios, optimize decision-making, and improve generalization in real-world applications. Additionally, this integration enhances scalability, enabling researchers and developers to test AI models under varied and rare conditions without physical constraints. The study also highlights the potential challenges, including ensuring data fidelity, minimizing biases, and aligning simulated data with real-world dynamics. Ultimately, the integration of synthetic data and digital twins holds the potential to accelerate AI innovation by providing scalable, cost-effective, and privacy-compliant solutions for training robust AI models. This paradigm shift is poised to redefine AI simulation and contribute to advancements in automation, predictive analytics, and intelligent decision support systems.}
+      \field{month}{3}
+      \field{title}{Synthetic {Data} and {Digital} {Twin} {Integration} for {Scalable} {AI} {Simulations}}
+      \field{year}{2025}
+    \endentry
+    \entry{seid_ahmed_advances_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=99cfb1ea6021a6be0fc12329306c7a0d}{%
+           family={Seid\bibnamedelima Ahmed},
+           familyi={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Yassmin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc5c7bcc42d9ddd6af37c00e56cd68c2}{%
+           family={Abubakar},
+           familyi={A\bibinitperiod},
+           given={Abba\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5ec4943afce5b9bb14784eba2b5331}{%
+           family={Arif},
+           familyi={A\bibinitperiod},
+           given={Abul\bibnamedelimb Fazal\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fed466a14dabb6b8ad8cb478628969ef}{%
+           family={Al-Badour},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Fadi\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11340e78571bbec40d4b3bd913f17dd6}
+      \strng{fullhash}{9b0f07450683e1c1afe6678761444781}
+      \strng{fullhashraw}{9b0f07450683e1c1afe6678761444781}
+      \strng{bibnamehash}{9b0f07450683e1c1afe6678761444781}
+      \strng{authorbibnamehash}{9b0f07450683e1c1afe6678761444781}
+      \strng{authornamehash}{11340e78571bbec40d4b3bd913f17dd6}
+      \strng{authorfullhash}{9b0f07450683e1c1afe6678761444781}
+      \strng{authorfullhashraw}{9b0f07450683e1c1afe6678761444781}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fault detection and diagnosis are essential for maintaining the continuous operation of manufacturing systems. To achieve this, an innovative tool is required to immediately identify any faults in the production process and recommend the appropriate mechanisms to be adopted proactively to prevent future mishaps or accidents. This capability is critical for many industries to improve the efficiency and effectiveness of their production processes. Several methods can be used to detect trends or patterns in any given process and determine if the process variable is within normal limits. However, these techniques may only detect evident process characteristics or defects while leaving behind latent ones. This paper aims to review recent achievements and classics in fault diagnosis and detection, and suggest steps that can be taken to plan and implement this process. It will also explore emerging research streams, critical issues in the field, and strategies that can be applied to overcome these barriers. The paper outlines how the performance of fault detection and diagnostics can be improved in production processes and how a safer and fully efficient production environment can be promoted.}
+      \field{day}{17}
+      \field{issn}{2297-3079}
+      \field{journaltitle}{Frontiers in Mechanical Engineering}
+      \field{month}{4}
+      \field{shortjournal}{Front. Mech. Eng.}
+      \field{title}{Advances in fault detection techniques for automated manufacturing systems in industry 4.0}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1564846}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fmech.2025.1564846
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fmech.2025.1564846/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fmech.2025.1564846/full
+      \endverb
+    \endentry
+    \entry{shorten_survey_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d49d1c5cbce775054678e29a462ca723}{%
+           family={Shorten},
+           familyi={S\bibinitperiod},
+           given={Connor},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7e0de384e7d1be2ca29a338e7f5c047}{%
+           family={Khoshgoftaar},
+           familyi={K\bibinitperiod},
+           given={Taghi\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{fullhash}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{fullhashraw}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{bibnamehash}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{authorbibnamehash}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{authornamehash}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{authorfullhash}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \strng{authorfullhashraw}{dae7c2fd5449b2cabfe6d8cea2eebe96}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2196-1115}
+      \field{journaltitle}{Journal of Big Data}
+      \field{month}{12}
+      \field{note}{Publisher: Springer Science and Business Media LLC}
+      \field{number}{1}
+      \field{title}{A survey on {Image} {Data} {Augmentation} for {Deep} {Learning}}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1186/s40537-019-0197-0
+      \endverb
+      \verb{urlraw}
+      \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
+      \endverb
+      \verb{url}
+      \verb https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
+      \endverb
+    \endentry
+    \entry{singh_convolutional_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f76b69aec206a63faadb43626bd3c0ca}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Navdeep},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=179025829d5ea6a07aa662891a0c450d}{%
+           family={Sabrol},
+           familyi={S\bibinitperiod},
+           given={Hiteshwari},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{fullhash}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{fullhashraw}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{bibnamehash}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{authorbibnamehash}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{authornamehash}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{authorfullhash}{9ea54194cda3ad45fe86cae2309a18e7}
+      \strng{authorfullhashraw}{9ea54194cda3ad45fe86cae2309a18e7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1134-3060, 1886-1784}
+      \field{journaltitle}{Archives of Computational Methods in Engineering}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{note}{Publisher: Springer Science and Business Media {LLC}}
+      \field{number}{7}
+      \field{shortjournal}{Arch Computat Methods Eng}
+      \field{title}{Convolutional Neural Networks-An Extensive arena of Deep Learning. A Comprehensive Study}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{28}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4755\bibrangedash 4780}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s11831-021-09551-4
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s11831-021-09551-4
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s11831-021-09551-4
+      \endverb
+    \endentry
+    \entry{the_australian_national_university_positioning_2013}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c5ad3c44f4773db75e4e37d9246c3101}{%
+           family={{The Australian National University}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6cb3773d13196927d56a5877ea24b6a2}{%
+           family={Gregor},
+           familyi={G\bibinitperiod},
+           given={Shirley},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e054261c7f1739e1ba1db0a45e385c1b}{%
+           family={Hevner},
+           familyi={H\bibinitperiod},
+           given={Alan\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bb59df49dc1a10caf21a5a460867ff8}{%
+           family={{University of South Florida}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ea548719040c61543bb588c743d2174}
+      \strng{fullhash}{024068c9904ba7977303a153a0f82d3c}
+      \strng{fullhashraw}{024068c9904ba7977303a153a0f82d3c}
+      \strng{bibnamehash}{024068c9904ba7977303a153a0f82d3c}
+      \strng{authorbibnamehash}{024068c9904ba7977303a153a0f82d3c}
+      \strng{authornamehash}{9ea548719040c61543bb588c743d2174}
+      \strng{authorfullhash}{024068c9904ba7977303a153a0f82d3c}
+      \strng{authorfullhashraw}{024068c9904ba7977303a153a0f82d3c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{issn}{02767783, 21629730}
+      \field{journaltitle}{{MIS} Quarterly}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{{MISQ}}
+      \field{title}{Positioning and Presenting Design Science Research for Maximum Impact}
+      \field{urlday}{15}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{37}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{337\bibrangedash 355}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.25300/MISQ/2013/37.2.01
+      \endverb
+      \verb{urlraw}
+      \verb https://misq.org/positioning-and-presenting-design-science-research-for-maximum-impact.html
+      \endverb
+      \verb{url}
+      \verb https://misq.org/positioning-and-presenting-design-science-research-for-maximum-impact.html
+      \endverb
+    \endentry
+    \entry{trumpf_se__co_kg_trumpf_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2bdead1472c3aa45239c96d62c8c6c74}{%
+           family={{TRUMPF SE \& Co. KG}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{fullhash}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{fullhashraw}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{bibnamehash}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{authorbibnamehash}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{authornamehash}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{authorfullhash}{2bdead1472c3aa45239c96d62c8c6c74}
+      \strng{authorfullhashraw}{2bdead1472c3aa45239c96d62c8c6c74}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{8}
+      \field{title}{{TRUMPF SE \& Co. KG}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.trumpf.com/de_DE/
+      \endverb
+      \verb{url}
+      \verb https://www.trumpf.com/de_DE/
+      \endverb
+    \endentry
+    \entry{vogel-heuser_remote_2024}{incollection}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3795d9c0443ce97f9f61e859fcad4a7f}{%
+           family={Trunzer},
+           familyi={T\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94bdb5ae7d6995f264aa682ebfcdb192}{%
+           family={Pirehgalin},
+           familyi={P\bibinitperiod},
+           given={Mina\bibnamedelima Fahimi},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d217c5b417c733c101c2ef0d92c458d}{%
+           family={Vogel-Heuser},
+           familyi={V\bibinithyphendelim H\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=254fb0a293ba8dfb55fdcf8588e7075e}{%
+           family={Odenweller},
+           familyi={O\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5d217c5b417c733c101c2ef0d92c458d}{%
+           family={Vogel-Heuser},
+           familyi={V\bibinithyphendelim H\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bb09ef691cc93ddc2fbef6f3c1c4ff07}{%
+           family={Ten\bibnamedelima Hompel},
+           familyi={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=509c536add6ee6b56bd34737c3249dca}{%
+           family={Bauernhansl},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{0621c82b6ec9163b6796ef24cc79853a}
+      \strng{fullhash}{086ef01cfa2bf23aba2b73953cc9c544}
+      \strng{fullhashraw}{086ef01cfa2bf23aba2b73953cc9c544}
+      \strng{bibnamehash}{086ef01cfa2bf23aba2b73953cc9c544}
+      \strng{authorbibnamehash}{086ef01cfa2bf23aba2b73953cc9c544}
+      \strng{authornamehash}{0621c82b6ec9163b6796ef24cc79853a}
+      \strng{authorfullhash}{086ef01cfa2bf23aba2b73953cc9c544}
+      \strng{authorfullhashraw}{086ef01cfa2bf23aba2b73953cc9c544}
+      \strng{editorbibnamehash}{cbb7f7dab13898d105be14cfabd48723}
+      \strng{editornamehash}{cbb7f7dab13898d105be14cfabd48723}
+      \strng{editorfullhash}{cbb7f7dab13898d105be14cfabd48723}
+      \strng{editorfullhashraw}{cbb7f7dab13898d105be14cfabd48723}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Handbuch Industrie 4.0}
+      \field{isbn}{978-3-662-58527-6 978-3-662-58528-3}
+      \field{langid}{german}
+      \field{shorttitle}{Remote Operations}
+      \field{title}{Remote Operations: Fernüberwachung von Produktionsanlagen}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{591\bibrangedash 598}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-3-662-58528-3_173
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-3-662-58528-3_173
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-3-662-58528-3_173
+      \endverb
+    \endentry
+    \entry{ultralytics_hyperparameter-optimierung_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=88f069848482a556e416f713d2819905}{%
+           family={Ultralytics},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{88f069848482a556e416f713d2819905}
+      \strng{fullhash}{88f069848482a556e416f713d2819905}
+      \strng{fullhashraw}{88f069848482a556e416f713d2819905}
+      \strng{bibnamehash}{88f069848482a556e416f713d2819905}
+      \strng{authorbibnamehash}{88f069848482a556e416f713d2819905}
+      \strng{authornamehash}{88f069848482a556e416f713d2819905}
+      \strng{authorfullhash}{88f069848482a556e416f713d2819905}
+      \strng{authorfullhashraw}{88f069848482a556e416f713d2819905}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Meistern Sie das Hyperparameter-Tuning für Ultralytics {YOLO}, um die Modellleistung mit unserem umfassenden Leitfaden zu optimieren. Optimieren Sie noch heute Ihre Modelle für maschinelles Lernen!.}
+      \field{langid}{german}
+      \field{title}{Hyperparameter-Optimierung}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\Felix\\Zotero\\storage\\WPPD8YD6\\hyperparameter-tuning.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://docs.ultralytics.com/de/guides/hyperparameter-tuning
+      \endverb
+      \verb{url}
+      \verb https://docs.ultralytics.com/de/guides/hyperparameter-tuning
+      \endverb
+    \endentry
+    \entry{ultralytics_yolo-datenerweiterung_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=88f069848482a556e416f713d2819905}{%
+           family={Ultralytics},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{88f069848482a556e416f713d2819905}
+      \strng{fullhash}{88f069848482a556e416f713d2819905}
+      \strng{fullhashraw}{88f069848482a556e416f713d2819905}
+      \strng{bibnamehash}{88f069848482a556e416f713d2819905}
+      \strng{authorbibnamehash}{88f069848482a556e416f713d2819905}
+      \strng{authornamehash}{88f069848482a556e416f713d2819905}
+      \strng{authorfullhash}{88f069848482a556e416f713d2819905}
+      \strng{authorfullhashraw}{88f069848482a556e416f713d2819905}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Erfahre mehr über die wesentlichen Datenaugmentierungstechniken in Ultralytics {YOLO}. Entdecke verschiedene Transformationen, ihre Auswirkungen und wie du sie effektiv implementieren kannst, um die Modellleistung zu verbessern.}
+      \field{langid}{german}
+      \field{title}{{YOLO}-Datenerweiterung}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\Felix\\Zotero\\storage\\C6UADUXX\\yolo-data-augmentation.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://docs.ultralytics.com/de/guides/yolo-data-augmentation
+      \endverb
+      \verb{url}
+      \verb https://docs.ultralytics.com/de/guides/yolo-data-augmentation
+      \endverb
+    \endentry
+    \entry{urgo_monitoring_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=588516c2d6c5a2f253131d644c10f06e}{%
+           family={Urgo},
+           familyi={U\bibinitperiod},
+           given={Marcello},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5c0d9d995a8c8436e60c40cc1007edf}{%
+           family={Terkaj},
+           familyi={T\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a08b4dbad8b1005ae1acb87cb3f30ab6}{%
+           family={Simonetti},
+           familyi={S\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{fullhash}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{fullhashraw}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{bibnamehash}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{authorbibnamehash}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{authornamehash}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{authorfullhash}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \strng{authorfullhashraw}{9339ee1e75ee7d71d8ce77e1274a12c9}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Modern cyber–physical production systems provide advanced solutions to enhance factory throughput and efficiency. However, monitoring its behaviour and performance becomes challenging as the complexity of a manufacturing system increases. Artificial Intelligence (AI) provides techniques to manage not only decision-making tasks but also to support monitoring. The integration of AI into a factory can be facilitated by a reliable Digital Twin (DT) that enables knowledge-based and data-driven approaches. While computer vision and convolutional neural networks (CNNs) are crucial for monitoring production systems, the need for extensive training data hinders their adoption in real factories. The proposed methodology leverages the Digital Twin of a factory to generate labelled synthetic data for training CNN-based object detection models. Regarding their position and state, the focus is on monitoring entities in manufacturing systems, such as parts, components, fixtures, and tools. This approach reduces the need for large training datasets and enables training when the actual system is unavailable. The trained CNN model is evaluated in various scenarios, with a real case study involving an industrial pilot plant for repairing and recycling Printed Circuit Boards (PCBs).}
+      \field{issn}{1755-5817}
+      \field{journaltitle}{CIRP Journal of Manufacturing Science and Technology}
+      \field{month}{6}
+      \field{shorttitle}{Monitoring manufacturing systems using {AI}}
+      \field{title}{Monitoring manufacturing systems using {AI}: {A} method based on a digital factory twin to train {CNNs} on synthetic data}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{249\bibrangedash 268}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.cirpj.2024.03.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1755581724000361
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1755581724000361
+      \endverb
+      \keyw{Deep learning,Digital twin,Production monitoring,Synthetic datasets}
+    \endentry
+    \entry{wen_new_2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=69fbd1925b015964d8ca73a60b5d44f5}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7b213026e6a37ccf33b05453fb861ad}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xinyu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8eab9075a7e8567d259e822a8ff36e6}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45e7a47c650661012138ed129ce759bd}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuyan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da7f455122f2f53737fa39e016ea846d}
+      \strng{fullhash}{4ddc45c4576f9c57bc783468daf5991c}
+      \strng{fullhashraw}{4ddc45c4576f9c57bc783468daf5991c}
+      \strng{bibnamehash}{4ddc45c4576f9c57bc783468daf5991c}
+      \strng{authorbibnamehash}{4ddc45c4576f9c57bc783468daf5991c}
+      \strng{authornamehash}{da7f455122f2f53737fa39e016ea846d}
+      \strng{authorfullhash}{4ddc45c4576f9c57bc783468daf5991c}
+      \strng{authorfullhashraw}{4ddc45c4576f9c57bc783468daf5991c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0278-0046, 1557-9948}
+      \field{journaltitle}{{IEEE} Transactions on Industrial Electronics}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shortjournal}{{IEEE} Trans. Ind. Electron.}
+      \field{title}{A New Convolutional Neural Network-Based Data-Driven Fault Diagnosis Method}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{65}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5990\bibrangedash 5998}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/TIE.2017.2774777
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/8114247/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/8114247/
+      \endverb
+    \endentry
+    \entry{wu_transformer-based_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ae0a4542dae41a07a2264fb36864a915}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Haiyue},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9edc81f0e52293476618f4025447408f}{%
+           family={Triebe},
+           familyi={T\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a5b84e8dc32ded1d7fdc17f9845ca21}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{fullhash}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{fullhashraw}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{bibnamehash}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{authorbibnamehash}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{authornamehash}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{authorfullhash}{8d0560cfc74ee91ee0371c61cfae137d}
+      \strng{authorfullhashraw}{8d0560cfc74ee91ee0371c61cfae137d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{02786125}
+      \field{journaltitle}{Journal of Manufacturing Systems}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shortjournal}{Journal of Manufacturing Systems}
+      \field{shorttitle}{A transformer-based approach for novel fault detection and fault classification/diagnosis in manufacturing}
+      \field{title}{A transformer-based approach for novel fault detection and fault classification/diagnosis in manufacturing: A rotary system application}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{67}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{439\bibrangedash 452}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.jmsy.2023.02.018
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612523000419
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612523000419
+      \endverb
+    \endentry
+    \entry{zaripov_creation_2025}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6d8a39ae9511fffb8144215b1a0fa292}{%
+           family={Zaripov},
+           familyi={Z\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be0b171fc2cd7c132c6aeb452a44fb12}{%
+           family={Kulshin},
+           familyi={K\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f847afa459eab898ac999f6891c72ff1}{%
+           family={Sidorov},
+           familyi={S\bibinitperiod},
+           given={Anatoly},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3981ce81c1754565bb96aca1eee09673}
+      \strng{fullhash}{3981ce81c1754565bb96aca1eee09673}
+      \strng{fullhashraw}{3981ce81c1754565bb96aca1eee09673}
+      \strng{bibnamehash}{3981ce81c1754565bb96aca1eee09673}
+      \strng{authorbibnamehash}{3981ce81c1754565bb96aca1eee09673}
+      \strng{authornamehash}{3981ce81c1754565bb96aca1eee09673}
+      \strng{authorfullhash}{3981ce81c1754565bb96aca1eee09673}
+      \strng{authorfullhashraw}{3981ce81c1754565bb96aca1eee09673}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work is dedicated to the development of a system for generating artificial data for training neural networks used within a conveyor-based technology framework. It presents an overview of the application areas of computer vision (CV) and establishes that traditional methods of data collection and annotation—such as video recording and manual image labeling—are associated with high time and financial costs, which limits their efficiency. In this context, synthetic data represents an alternative capable of significantly reducing the time and financial expenses involved in forming training datasets. Modern methods for generating synthetic images using various tools—from game engines to generative neural networks—are reviewed. As a tool-platform solution, the concept of digital twins for simulating technological processes was considered, within which synthetic data is utilized. Based on the review findings, a generalized model for synthetic data generation was proposed and tested on the example of quality control for floor coverings on a conveyor line. The developed system provided the generation of photorealistic and diverse images suitable for training neural network models. A comparative analysis showed that the YOLOv8 model trained on synthetic data significantly outperformed the model trained on real images: the mAP50 metric reached 0.95 versus 0.36, respectively. This result demonstrates the high adequacy of the model built on the synthetic dataset and highlights the potential of using synthetic data to improve the quality of computer vision models when access to real data is limited.}
+      \field{issn}{2313-433X}
+      \field{journaltitle}{Journal of Imaging}
+      \field{month}{5}
+      \field{note}{Number: 5 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{5}
+      \field{title}{The {Creation} of {Artificial} {Data} for {Training} a {Neural} {Network} {Using} the {Example} of a {Conveyor} {Production} {Line} for {Flooring}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{168}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jimaging11050168
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2313-433X/11/5/168
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2313-433X/11/5/168
+      \endverb
+      \keyw{computer vision,synthetic data,conveyor,data generation,defect,laminate,neural network,Unity,YOLO}
+    \endentry
+    \entry{zhao_detrs_2023}{misc}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=dd449acf43b8e5198ca01b979b7d908c}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yian},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a29eded43211e40a6d0b909e6032ffb7}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Wenyu},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa4f6ec48394a2ebef11335f9a55f6e7}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Shangliang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0822be5805029608cad03d5cb413a753}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jinman},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61c83935c5db8545f0d25d074f8e34d1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guanzhong},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ce95337f93907a139813f02c93ba30b}{%
+           family={Dang},
+           familyi={D\bibinitperiod},
+           given={Qingqing},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d8c39e3a63acab6d94c490b6d45028}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f12458352bf48d8ebe2ba46b11310c19}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{ca39f66a829edbb7af2a0de66abb2134}
+      \strng{fullhash}{ac48645592f0c750b0b1e681728883bc}
+      \strng{fullhashraw}{ac48645592f0c750b0b1e681728883bc}
+      \strng{bibnamehash}{ac48645592f0c750b0b1e681728883bc}
+      \strng{authorbibnamehash}{ac48645592f0c750b0b1e681728883bc}
+      \strng{authornamehash}{ca39f66a829edbb7af2a0de66abb2134}
+      \strng{authorfullhash}{ac48645592f0c750b0b1e681728883bc}
+      \strng{authorfullhashraw}{ac48645592f0c750b0b1e681728883bc}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The {YOLO} series has become the most popular framework for real-time object detection due to its reasonable trade-off between speed and accuracy. However, we observe that the speed and accuracy of {YOLOs} are negatively affected by the {NMS}. Recently, end-to-end Transformer-based detectors ({DETRs}) have provided an alternative to eliminating {NMS}. Nevertheless, the high computational cost limits their practicality and hinders them from fully exploiting the advantage of excluding {NMS}. In this paper, we propose the Real-Time {DEtection} {TRansformer} ({RT}-{DETR}), the first real-time end-to-end object detector to our best knowledge that addresses the above dilemma. We build {RT}-{DETR} in two steps, drawing on the advanced {DETR}: first we focus on maintaining accuracy while improving speed, followed by maintaining speed while improving accuracy. Specifically, we design an efficient hybrid encoder to expeditiously process multi-scale features by decoupling intra-scale interaction and cross-scale fusion to improve speed. Then, we propose the uncertainty-minimal query selection to provide high-quality initial queries to the decoder, thereby improving accuracy. In addition, {RT}-{DETR} supports flexible speed tuning by adjusting the number of decoder layers to adapt to various scenarios without retraining. Our {RT}-{DETR}-R50 / R101 achieves 53.1\% / 54.3\% {AP} on {COCO} and 108 / 74 {FPS} on T4 {GPU}, outperforming previously advanced {YOLOs} in both speed and accuracy. We also develop scaled {RT}-{DETRs} that outperform the lighter {YOLO} detectors (S and M models). Furthermore, {RT}-{DETR}-R50 outperforms {DINO}-R50 by 2.2\% {AP} in accuracy and about 21 times in {FPS}. After pre-training with Objects365, {RT}-{DETR}-R50 / R101 achieves 55.3\% / 56.2\% {AP}. The project page: https://zhao-yian.github.io/{RTDETR}.}
+      \field{note}{Version Number: 3}
+      \field{title}{{DETRs} Beat {YOLOs} on Real-time Object Detection}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2304.08069
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2304.08069
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2304.08069
+      \endverb
+      \keyw{Computer Vision and Pattern Recognition (cs.{CV}),{FOS}: Computer and information sciences}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
