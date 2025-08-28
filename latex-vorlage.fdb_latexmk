@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber latex-vorlage"] 1756369456.37645 "latex-vorlage.bcf" "latex-vorlage.bbl" "latex-vorlage" 1756370200.36528 0
+["biber latex-vorlage"] 1756369456.37645 "latex-vorlage.bcf" "latex-vorlage.bbl" "latex-vorlage" 1756372303.09756 0
   "includes/literatur-datenbank.bib" 1756369316 97927 8e0e567845518ab051f7d96d394e35fa ""
-  "latex-vorlage.bcf" 1756370200 120935 322940f81908be370af062127e0e4c6a "pdflatex"
+  "latex-vorlage.bcf" 1756372302 120935 322940f81908be370af062127e0e4c6a "pdflatex"
   (generated)
   "latex-vorlage.bbl"
   "latex-vorlage.blg"
   (rewritten before read)
-["pdflatex"] 1756370195.41555 "c:/Users/Felix/Documents/DIGGER/Studium/DHBW/2. Semester/Projektarbeit/Projektarbeit 1 v2/Projektarbeit-1/latex-vorlage.tex" "latex-vorlage.pdf" "latex-vorlage" 1756370200.3659 0
+["pdflatex"] 1756372298.14306 "c:/Users/Felix/Documents/DIGGER/Studium/DHBW/2. Semester/Projektarbeit/Projektarbeit 1 v2/Projektarbeit-1/latex-vorlage.tex" "latex-vorlage.pdf" "latex-vorlage" 1756372303.09814 0
   "_dhbw_authoryear.bbx" 1756369316 8121 f87e54d043d6b585fe5dd3ffac528549 ""
   "c:/Users/Felix/Documents/DIGGER/Studium/DHBW/2. Semester/Projektarbeit/Projektarbeit 1 v2/Projektarbeit-1/latex-vorlage.tex" 1756369316 2386 7f07ad9ad5a096cf2cfba4a41ddee326 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1751636868 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -296,18 +296,18 @@
   "includes/config.tex" 1756369316 3076 ba81e75a46b2b5f2ae834b328129a093 ""
   "includes/einleitung.tex" 1756369316 5549 bd020aae2c93d407eead5a81baf3af9c ""
   "includes/erklaerung_ki.tex" 1756370194 1857 4926fa21bf835732e3fadb689597b7de ""
-  "includes/praxisteil.tex" 1756369316 40883 c6adb79d257e84773570a5a0fabbea52 ""
-  "includes/schlussteil.tex" 1756369316 11265 2b68ca45e9f7dd72a03e3a7c02f169cb ""
+  "includes/praxisteil.tex" 1756372078 40890 f1ef996bd56c404b518dae1861d4bc9e ""
+  "includes/schlussteil.tex" 1756372297 11270 28dfc63ed261422b82d254f2223649f3 ""
   "includes/sperrvermerk.tex" 1756369316 879 04e8c8377cac855145029aada9a64321 ""
-  "includes/theorieteil.tex" 1756369316 37729 72ab6aa2d0ebe1d34a1e6b4585c938d8 ""
-  "latex-vorlage.app" 1756370200 1416 c819315972b0f5edb4709bdafef995f1 "pdflatex"
-  "latex-vorlage.aux" 1756370200 79032 4b34cf53be80667cc5d562dc4af469f8 "pdflatex"
+  "includes/theorieteil.tex" 1756371784 37691 fd4cd08392fc1c76c90c7a5831c60462 ""
+  "latex-vorlage.app" 1756372302 1416 c819315972b0f5edb4709bdafef995f1 "pdflatex"
+  "latex-vorlage.aux" 1756372302 79068 78fc68484e4e6992006d185e5df2a8df "pdflatex"
   "latex-vorlage.bbl" 1756369458 172238 b447a4ea1f486e323032cfaf4f582025 "biber latex-vorlage"
-  "latex-vorlage.lof" 1756370200 1708 cc2d6d3657ee77f2022a2241ac847db9 "pdflatex"
-  "latex-vorlage.lot" 1756370200 198 18754f9b69fc0077111f91c4aec0b0b3 "pdflatex"
-  "latex-vorlage.run.xml" 1756370200 2428 2d119b512bd1d4ff1381f82b4891beaf "pdflatex"
+  "latex-vorlage.lof" 1756372302 1708 cc2d6d3657ee77f2022a2241ac847db9 "pdflatex"
+  "latex-vorlage.lot" 1756372302 198 18754f9b69fc0077111f91c4aec0b0b3 "pdflatex"
+  "latex-vorlage.run.xml" 1756372302 2428 2d119b512bd1d4ff1381f82b4891beaf "pdflatex"
   "latex-vorlage.tex" 1756369316 2386 7f07ad9ad5a096cf2cfba4a41ddee326 ""
-  "latex-vorlage.toc" 1756370200 6278 9d9f3f0f4e912f0754bcc25b057c90a3 "pdflatex"
+  "latex-vorlage.toc" 1756372302 6278 9d9f3f0f4e912f0754bcc25b057c90a3 "pdflatex"
   "template/_dhbw_biblatex-config.tex" 1756369316 5863 6458ff6d1ddde7fe67c7cfcb4b877bb6 ""
   "template/_dhbw_deckblatt.tex" 1756369677 2449 ae2440e75cf4a280af556d8ea94e5657 ""
   "template/_dhbw_erklaerung.tex" 1756369316 946 13f182951ae36c7ba91049ce26ef857d ""
